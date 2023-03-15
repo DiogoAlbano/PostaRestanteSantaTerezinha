@@ -1,6 +1,6 @@
 <table>
 <tr>
-<th>CLIENTE</th><th>TIPO</th><th>RECEBIDO EM</th><th>RETIRAR ATÉ</th>
+<th>NOME</th><th>ORDEM</th><th>TIPO</th><th>RECEBIDO EM</th><th>RETIRAR ATÉ</th>
 </tr>
    
 <tr>
