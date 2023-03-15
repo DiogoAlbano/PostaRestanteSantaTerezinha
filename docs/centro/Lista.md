@@ -1,7 +1,7 @@
 <table>
 <tr>
 <th>CLIENTE</th>
-<th>CATEGORIA</th>
+<td>Fulano</td>
 </tr>
 </table>
 
