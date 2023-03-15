@@ -1,8 +1,9 @@
 <table>
 <tr>
-<th>CLIENTE
-<td>Fulano</td>
-</th>
+<th>CLIENTE</th>
+</tr>
+<tr>
+<th>CLIENTE</th>
 </tr>
 </table>
 
