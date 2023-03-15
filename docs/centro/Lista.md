@@ -5,7 +5,7 @@
 </tr>
    
 <tr>
-<td>Fulano Ciclano</td>ENCOMENDA<td></td>
+<th>Coluna 1</th>Coluna 2<th></td>
 </tr>
 
 </table>
