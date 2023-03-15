@@ -1,7 +1,8 @@
 <table>
 <tr>
-<th>CLIENTE</th>
+<th>CLIENTE
 <td>Fulano</td>
+</th>
 </tr>
 </table>
 
