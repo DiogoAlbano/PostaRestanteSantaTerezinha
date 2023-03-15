@@ -3,5 +3,6 @@
 <th>CLIENTE</th>
 <th>CATEGORIA</th>
 </tr>
-<tr>
+</table>
+
 
