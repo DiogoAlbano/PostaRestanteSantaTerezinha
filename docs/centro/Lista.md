@@ -5,7 +5,7 @@
 </tr>
    
 <tr>
-<th>Coluna 1</th>Coluna 2<th></td>
+<th>Coluna 1</th><th>Coluna 2<th></td>
 </tr>
 
 </table>
