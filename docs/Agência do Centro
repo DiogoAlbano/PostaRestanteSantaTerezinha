@@ -1,1 +1,8 @@
-
+<table>
+<tr>
+<th>CLIENTE</th>
+<th>TIPO</th>
+</tr>
+<tr>
+<td><code>Load</code></td>
+<td>
