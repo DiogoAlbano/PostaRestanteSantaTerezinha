@@ -1,7 +1,6 @@
 <table>
 <tr>
-<th>action</th>
-<th>overview</th>
+<th>CLIENTE</th><th>TIPO</th><th>RECEBIDO EM</th><th>RETIRAR ATÉ</th>
 </tr>
    
 <tr>
