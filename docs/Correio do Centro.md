@@ -1,3 +1,10 @@
+# LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
+## DADOS ATUALIZADOS EM: 15/3/2023 ÀS 20 HORAS.
+
+* OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
+* NÃO DEIXE PARA TIRAR SEUS OBJETOS NO ÚLTIMO DIA, POIS SISTEMAS DE VENDAS PODEM CALCULAR O PRAZO ERRADO E PASSAR O PRAZO DE RETIRADA MAIOR QUE O CORRETO!
+
+
 <table><tr><th>NOME</th><th>TIPO</th><th>RECEBIDO EM</th><th>POSIÇÃO</th><th>RETIRAR ATÉ</th></tr>
 <tr><th>ABEL KOHUT</th><th>REGISTRADO</th><th>09/03/23</th><th>B29</th><th>28/03/23</th></tr>
 <tr><th>ACAZ SCHMECKEL</th><th>REGISTRADO</th><th>07/03/23</th><th>B59</th><th>26/03/23</th></tr>
@@ -658,5 +665,4 @@
 <tr><th>ZOLMIR GELSLEICHTER</th><th>CARTA</th><th>15/03/23</th><th>26</th><th>03/04/23</th></tr>
 <tr><th>ZULMIRA LONGE</th><th>ENCOMENDA</th><th>15/03/23</th><th>H13</th><th>21/03/23</th></tr>
 <tr><th>ZULMIRA LONGEN PFEIFER</th><th>ENCOMENDA</th><th>15/03/23</th><th>M5</th><th>21/03/23</th></tr>
-<tr><th>ZULMIRA LONGEN PFEIFER</th><th>ENCOMENDA</th><th>10/12/99</th><th>0</th><th>16/12/99</th></tr>
 </table>
