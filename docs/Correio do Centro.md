@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 16/3/2023 ÀS 8 HORAS.
+## DADOS ATUALIZADOS EM: 16/3/2023 ÀS 10 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -11,19 +11,27 @@
 <table><tr><th>NOME</th><th>TIPO</th><th>RECEBIDO EM</th><th>POSIÇÃO</th><th>RETIRAR ATÉ</th></tr>
 <tr><th>ABEL KOHUT</th><th>REGISTRADO</th><th>44994</th><th>B29</th><th>45013</th></tr>
 <tr><th>ACAZ SCHMECKEL</th><th>REGISTRADO</th><th>44992</th><th>B59</th><th>45011</th></tr>
+<tr><th>ADAO GARLINI</th><th>CARTA</th><th>45001</th><th>30</th><th>45020</th></tr>
 <tr><th>ADELIO CLAUDINO</th><th>CARTA</th><th>44985</th><th>19</th><th>45004</th></tr>
 <tr><th>ADELIO CLAUDINO</th><th>REGISTRADO</th><th>44985</th><th>B89</th><th>45004</th></tr>
+<tr><th>ADELSON LOURENCO ALVES</th><th>CARTA</th><th>45001</th><th>2</th><th>45020</th></tr>
 <tr><th>ADELSON LOURENCO ALVES</th><th>CARTA</th><th>44992</th><th>24</th><th>45011</th></tr>
 <tr><th>ADEMAR DO NASCIMENTO</th><th>CARTA</th><th>44984</th><th>6</th><th>45003</th></tr>
 <tr><th>ADEMAR SCHMIDT</th><th>CARTA</th><th>44999</th><th>10</th><th>45018</th></tr>
 <tr><th>ADILSON BLONKOWSKI</th><th>ENCOMENDA</th><th>45000</th><th>L13</th><th>45006</th></tr>
 <tr><th>ADILSON CAPISTRANO</th><th>REGISTRADO</th><th>44999</th><th>B40</th><th>45018</th></tr>
+<tr><th>ADILSON SZABELSKI</th><th>CARTA</th><th>45001</th><th>48</th><th>45020</th></tr>
 <tr><th>ADINEI ORTIZ DOS SANTOS</th><th>CARTA</th><th>44988</th><th>59</th><th>45007</th></tr>
+<tr><th>ADRIANA BLONKOWSKI KOVALSKI</th><th>CARTA</th><th>45001</th><th>55</th><th>45020</th></tr>
 <tr><th>ADRIANA CACKOWSKI</th><th>CARTA</th><th>44984</th><th>72</th><th>45003</th></tr>
 <tr><th>ADRIANI LUCIA MOSCHEN</th><th>CARTA</th><th>44984</th><th>81</th><th>45003</th></tr>
 <tr><th>ADRIANO JOSE CAPISTRANO</th><th>ENCOMENDA</th><th>44995</th><th>A2</th><th>45001</th></tr>
 <tr><th>ADRIANO SCHMIDT</th><th>REGISTRADO</th><th>44985</th><th>B105</th><th>45004</th></tr>
 <tr><th>AEE PARTICIPACOES</th><th>CARTA</th><th>44984</th><th>65</th><th>45003</th></tr>
+<tr><th>AEE PARTICIPACOES E LOCACOES</th><th>CARTA</th><th>45001</th><th>10</th><th>45020</th></tr>
+<tr><th>AGROOUROVERDE</th><th>CARTA</th><th>45001</th><th>21</th><th>45020</th></tr>
+<tr><th>AGROOUROVERDE</th><th>CARTA</th><th>45001</th><th>23</th><th>45020</th></tr>
+<tr><th>AGROOUROVERDE</th><th>CARTA</th><th>45001</th><th>45</th><th>45020</th></tr>
 <tr><th>AGROPECUARIA E MATERIAIS JUNCKES</th><th>ENCOMENDA</th><th>45000</th><th>C2</th><th>45006</th></tr>
 <tr><th>AGROPECUARIA E MATERIAIS JUNCKES</th><th>ENCOMENDA</th><th>45000</th><th>I2</th><th>45006</th></tr>
 <tr><th>AIRTO SPINDULA</th><th>CARTA</th><th>44999</th><th>11</th><th>45018</th></tr>
@@ -31,20 +39,24 @@
 <tr><th>AIRTON VARELLA</th><th>CARTA</th><th>44994</th><th>44</th><th>45013</th></tr>
 <tr><th>ALAN VANCLEI DE OLIVEIRA</th><th>CARTA</th><th>44985</th><th>41</th><th>45004</th></tr>
 <tr><th>ALAN VANCLEI DE OLIVEIRA</th><th>CARTA</th><th>44985</th><th>43</th><th>45004</th></tr>
+<tr><th>ALBINO STOPA</th><th>CARTA</th><th>45001</th><th>53</th><th>45020</th></tr>
 <tr><th>ALEX JUNCKES</th><th>REGISTRADO</th><th>44999</th><th>B36</th><th>45018</th></tr>
 <tr><th>ALEX JUNIOR CARVALHO DE LIMA</th><th>CARTA</th><th>44984</th><th>10</th><th>45003</th></tr>
 <tr><th>ALFREDO VENDRAMIN</th><th>CARTA</th><th>44992</th><th>29</th><th>45011</th></tr>
-<tr><th>ALINE DE SOUZA</th><th>ENCOMENDA</th><th>45000</th><th>L7</th><th>45006</th></tr>
 <tr><th>ALINE RAFAELI</th><th>REGISTRADO</th><th>44992</th><th>B46</th><th>45011</th></tr>
 <tr><th>ALINE REGINA KCUHLER</th><th>CARTA</th><th>44984</th><th>59</th><th>45003</th></tr>
+<tr><th>ALINE REGINA KUCHLER</th><th>CARTA</th><th>45001</th><th>57</th><th>45020</th></tr>
 <tr><th>ALINE REGINA KUCHLER</th><th>CARTA</th><th>45000</th><th>70</th><th>45019</th></tr>
 <tr><th>ALINE REGINA KUCHLER ODONTOLOGIA</th><th>ENCOMENDA</th><th>45000</th><th>H10</th><th>45006</th></tr>
 <tr><th>ALINE ROBERTA GOTERRA</th><th>ENCOMENDA</th><th>45000</th><th>L15</th><th>45006</th></tr>
 <tr><th>ALINOR NASCIMENTO</th><th>CARTA</th><th>44992</th><th>13</th><th>45011</th></tr>
 <tr><th>ALIRIO PIRES</th><th>CARTA</th><th>44992</th><th>30</th><th>45011</th></tr>
 <tr><th>ALTAIR CARVALHO DE LIMA</th><th>CARTA</th><th>45000</th><th>72</th><th>45019</th></tr>
+<tr><th>ALTAMIRO JOAO ANDERSEN</th><th>CARTA</th><th>45001</th><th>61</th><th>45020</th></tr>
+<tr><th>ALTINO PEREIRA</th><th>REGISTRADO</th><th>45001</th><th>B159</th><th>45020</th></tr>
 <tr><th>AMANDA DE ALBUQUERQUE MACEDO FERREIRA</th><th>REGISTRADO</th><th>44994</th><th>B7</th><th>45013</th></tr>
 <tr><th>AMANDA GONCALVES</th><th>ENCOMENDA</th><th>44998</th><th>H3</th><th>45004</th></tr>
+<tr><th>AMARILDO POLESA</th><th>CARTA</th><th>45001</th><th>47</th><th>45020</th></tr>
 <tr><th>AMELIA JULIANA DA ROCHA</th><th>CARTA</th><th>44992</th><th>4</th><th>45011</th></tr>
 <tr><th>AMELIA KOZIRIS HAVRELHUK</th><th>CARTA</th><th>44985</th><th>70</th><th>45004</th></tr>
 <tr><th>AMELIE CONFECCOES</th><th>CARTA</th><th>44988</th><th>38</th><th>45007</th></tr>
@@ -54,13 +66,12 @@
 <tr><th>ANAILSON DROZDECK</th><th>CARTA</th><th>45000</th><th>21</th><th>45019</th></tr>
 <tr><th>ANAILSON DROZDECK</th><th>CARTA</th><th>45000</th><th>36</th><th>45019</th></tr>
 <tr><th>ANDERSON DONIZETI SEOLIN</th><th>REGISTRADO</th><th>44987</th><th>B121</th><th>45006</th></tr>
+<tr><th>ANDERSON JOSE LOURENCO</th><th>CARTA</th><th>45001</th><th>17</th><th>45020</th></tr>
 <tr><th>ANDERSON JOSE ROSA</th><th>ENCOMENDA</th><th>45000</th><th>G1</th><th>45006</th></tr>
 <tr><th>ANDRE SCHMIGUEL</th><th>CARTA</th><th>44992</th><th>66</th><th>45011</th></tr>
 <tr><th>ANDREIA ZANATTA</th><th>REGISTRADO</th><th>44985</th><th>B8</th><th>45004</th></tr>
 <tr><th>ANDRIELE SCHLUCUBIA SCHMITZ</th><th>CARTA</th><th>44984</th><th>9</th><th>45003</th></tr>
-<tr><th>ANDRIELI NOGUEIRA</th><th>REGISTRADO</th><th>44992</th><th>B33</th><th>45011</th></tr>
 <tr><th>ANDRIELY BOSSY OKOPNIK</th><th>CARTA</th><th>44992</th><th>44</th><th>45011</th></tr>
-<tr><th>ANGELA MARIA ANSOLIN</th><th>ENCOMENDA</th><th>45000</th><th>E2</th><th>45006</th></tr>
 <tr><th>ANGELA MARIA ANSOLIN DOS SANTOS</th><th>CARTA</th><th>44994</th><th>35</th><th>45013</th></tr>
 <tr><th>ANGELA MARIA ANSOLIN DOS SANTOS</th><th>CARTA</th><th>44994</th><th>36</th><th>45013</th></tr>
 <tr><th>ANGELA MARIA ANSOLIN DOS SANTOS</th><th>CARTA</th><th>44994</th><th>37</th><th>45013</th></tr>
@@ -88,12 +99,14 @@
 <tr><th>ATAIR RIBEIRO</th><th>CARTA</th><th>44984</th><th>27</th><th>45003</th></tr>
 <tr><th>AUTO POSTO EM</th><th>CARTA</th><th>44999</th><th>7</th><th>45018</th></tr>
 <tr><th>AUTO POSTO EM</th><th>CARTA</th><th>44984</th><th>89</th><th>45003</th></tr>
+<tr><th>AUTOPCAO</th><th>CARTA</th><th>45001</th><th>50</th><th>45020</th></tr>
 <tr><th>AVELINO TERESIO DROSDEK</th><th>REGISTRADO</th><th>44987</th><th>B129</th><th>45006</th></tr>
 <tr><th>BANCO DO BRASIL</th><th>REGISTRADO</th><th>44999</th><th>B57</th><th>45018</th></tr>
 <tr><th>BERLANDA</th><th>CARTA</th><th>44994</th><th>1</th><th>45013</th></tr>
 <tr><th>BERLANDA</th><th>ENCOMENDA</th><th>44998</th><th>H11</th><th>45004</th></tr>
 <tr><th>BERNADETE MARIA PEDROSO PINHEIRO</th><th>CARTA</th><th>44992</th><th>86</th><th>45011</th></tr>
 <tr><th>BETANIA DOS SANTOS SOUZA</th><th>ENCOMENDA</th><th>45000</th><th>M9</th><th>45006</th></tr>
+<tr><th>BRUNA CAMILE CASAGRANDE</th><th>CARTA</th><th>45001</th><th>20</th><th>45020</th></tr>
 <tr><th>BRUNA PEREIRA DE OLIVEIRA</th><th>REGISTRADO</th><th>44999</th><th>B60</th><th>45018</th></tr>
 <tr><th>BRUNA PEREIRA DE OLIVEIRA</th><th>ENCOMENDA</th><th>45000</th><th>K3</th><th>45006</th></tr>
 <tr><th>BRUNA PEREIRA DE OLIVEIRA</th><th>ENCOMENDA</th><th>45000</th><th>K4</th><th>45006</th></tr>
@@ -102,7 +115,7 @@
 <tr><th>BRUNO LORAN KUCHLLER</th><th>REGISTRADO</th><th>44985</th><th>B14</th><th>45004</th></tr>
 <tr><th>CAIO METZGER</th><th>CARTA</th><th>44992</th><th>16</th><th>45011</th></tr>
 <tr><th>CAMILA CEMBALISTA</th><th>REGISTRADO</th><th>44987</th><th>B141</th><th>45006</th></tr>
-<tr><th>CAMILA PEREIRA DE JESUS</th><th>ENCOMENDA</th><th>45000</th><th>H7</th><th>45006</th></tr>
+<tr><th>CAMILA MARTINS</th><th>CARTA</th><th>45001</th><th>32</th><th>45020</th></tr>
 <tr><th>CAMILY VITORIA PAVLAK DE SOUZA</th><th>REGISTRADO</th><th>44992</th><th>B4</th><th>45011</th></tr>
 <tr><th>CARINA DA SILVA PORTO</th><th>ENCOMENDA</th><th>44998</th><th>A7</th><th>45004</th></tr>
 <tr><th>CARLA DA SILVA WOJCIECHOWSKI</th><th>REGISTRADO</th><th>44987</th><th>B75</th><th>45006</th></tr>
@@ -112,7 +125,10 @@
 <tr><th>CARMELIA MARTINS DE OLIVEIRA</th><th>ENCOMENDA</th><th>45000</th><th>N4</th><th>45006</th></tr>
 <tr><th>CATARINA ZATOR MONCZEVSKI</th><th>CARTA</th><th>44984</th><th>29</th><th>45003</th></tr>
 <tr><th>CEBILA PAVOSKI CEOLIN</th><th>CARTA</th><th>44994</th><th>16</th><th>45013</th></tr>
+<tr><th>CELESTINO KALESKI</th><th>CARTA</th><th>45001</th><th>56</th><th>45020</th></tr>
+<tr><th>CELESTINO NOVAKOWSKI</th><th>CARTA</th><th>45001</th><th>13</th><th>45020</th></tr>
 <tr><th>CELINO MACEDO</th><th>CARTA</th><th>44985</th><th>54</th><th>45004</th></tr>
+<tr><th>CELIO KRUCZKIEWICZ</th><th>REGISTRADO</th><th>45001</th><th>B146</th><th>45020</th></tr>
 <tr><th>CELIO URBANEK</th><th>CARTA</th><th>44984</th><th>67</th><th>45003</th></tr>
 <tr><th>CELIO ZEFERINO</th><th>CARTA</th><th>45000</th><th>23</th><th>45019</th></tr>
 <tr><th>CHAIANE APARECIDA FRACAO</th><th>REGISTRADO</th><th>44985</th><th>B116</th><th>45004</th></tr>
@@ -123,9 +139,9 @@
 <tr><th>CLECIR RODRIGUES</th><th>CARTA</th><th>45000</th><th>4</th><th>45019</th></tr>
 <tr><th>CLEIDE DOMANSKI ALVES DA SILVA</th><th>ENCOMENDA</th><th>45000</th><th>Z1</th><th>45006</th></tr>
 <tr><th>CLEIDE SALETE ARCARI GOTTSCHALK</th><th>ENCOMENDA</th><th>44998</th><th>C1</th><th>45004</th></tr>
-<tr><th>CLEISIANI MARKOSKI</th><th>ENCOMENDA</th><th>45000</th><th>E3</th><th>45006</th></tr>
 <tr><th>CLEITON CAMPREGHER</th><th>CARTA</th><th>44992</th><th>64</th><th>45011</th></tr>
 <tr><th>CLEITON KOHUT</th><th>CARTA</th><th>44985</th><th>40</th><th>45004</th></tr>
+<tr><th>CLEMENTE LOURENCO</th><th>CARTA</th><th>45001</th><th>9</th><th>45020</th></tr>
 <tr><th>CLEMENTE PAWLAK</th><th>CARTA</th><th>44985</th><th>52</th><th>45004</th></tr>
 <tr><th>CLEMENTINA K POPADINK</th><th>CARTA</th><th>44994</th><th>58</th><th>45013</th></tr>
 <tr><th>CLEMENTINA KUCNIR SUFFES</th><th>CARTA</th><th>44984</th><th>31</th><th>45003</th></tr>
@@ -139,8 +155,7 @@
 <tr><th>COMERCIO DE MADEIRAS LONGEN</th><th>REGISTRADO</th><th>44985</th><th>B111</th><th>45004</th></tr>
 <tr><th>COMERCIO DE MADEIRAS LONGEN</th><th>REGISTRADO</th><th>44987</th><th>B119</th><th>45006</th></tr>
 <tr><th>COMERCIO DE MADEIRAS LONGEN EIRELI</th><th>REGISTRADO</th><th>44994</th><th>B49</th><th>45013</th></tr>
-<tr><th>CRESOL</th><th>REGISTRADO</th><th>44994</th><th>B15</th><th>45013</th></tr>
-<tr><th>CRESOL</th><th>REGISTRADO</th><th>44999</th><th>B99</th><th>45018</th></tr>
+<tr><th>CRESOL</th><th>REGISTRADO</th><th>45001</th><th>B19</th><th>45020</th></tr>
 <tr><th>CRISTIANE WATRAZ</th><th>CARTA</th><th>44992</th><th>60</th><th>45011</th></tr>
 <tr><th>CRISTIANO SILVESTRE BALAK</th><th>CARTA</th><th>44984</th><th>34</th><th>45003</th></tr>
 <tr><th>CRISTIANO SILVESTRE BALAK</th><th>REGISTRADO</th><th>44985</th><th>B87</th><th>45004</th></tr>
@@ -161,15 +176,18 @@
 <tr><th>DEBORA ZATUR MONTEIRO</th><th>CARTA</th><th>44992</th><th>35</th><th>45011</th></tr>
 <tr><th>DEISI FELCZAK PEREIRA</th><th>CARTA</th><th>45000</th><th>24</th><th>45019</th></tr>
 <tr><th>DEIVID MOURA DOS SANTOS</th><th>REGISTRADO</th><th>44992</th><th>B76</th><th>45011</th></tr>
+<tr><th>DELANO REGIS JUNCKES</th><th>CARTA</th><th>45001</th><th>14</th><th>45020</th></tr>
 <tr><th>DELEGACIA DE POLICIA</th><th>REGISTRADO</th><th>44992</th><th>B55</th><th>45011</th></tr>
 <tr><th>DEMETRIO KORENIVSKI</th><th>CARTA</th><th>44988</th><th>82</th><th>45007</th></tr>
 <tr><th>DEOCLECIO HEINZEN</th><th>CARTA</th><th>44985</th><th>75</th><th>45004</th></tr>
 <tr><th>DEONISIO BALAN</th><th>CARTA</th><th>44992</th><th>7</th><th>45011</th></tr>
 <tr><th>DEONISIO STOPA</th><th>REGISTRADO</th><th>44992</th><th>B62</th><th>45011</th></tr>
 <tr><th>DEONISIO STOPA</th><th>REGISTRADO</th><th>44985</th><th>B67</th><th>45004</th></tr>
+<tr><th>DERETTI FERNANDES COM DE ART</th><th>CARTA</th><th>45001</th><th>25</th><th>45020</th></tr>
 <tr><th>DESPACHANTE AMIGOS</th><th>ENCOMENDA</th><th>45000</th><th>X4</th><th>45006</th></tr>
 <tr><th>DESPACHANTE DIDIO</th><th>CARTA</th><th>45000</th><th>38</th><th>45019</th></tr>
 <tr><th>DESPACHANTE DIDIO</th><th>CARTA</th><th>45000</th><th>39</th><th>45019</th></tr>
+<tr><th>DIEGO GOMES DA SILVA</th><th>REGISTRADO</th><th>45001</th><th>B51</th><th>45020</th></tr>
 <tr><th>DILENE MARIA DE AND</th><th>CARTA</th><th>44992</th><th>38</th><th>45011</th></tr>
 <tr><th>DILMA CAETANO</th><th>CARTA</th><th>44985</th><th>56</th><th>45004</th></tr>
 <tr><th>DIOGO PADILHA</th><th>CARTA</th><th>44985</th><th>67</th><th>45004</th></tr>
@@ -179,22 +197,25 @@
 <tr><th>DORNELIS MINICOVSKI</th><th>CARTA</th><th>44992</th><th>40</th><th>45011</th></tr>
 <tr><th>DORNELIS MINICOVSKI</th><th>CARTA</th><th>45000</th><th>57</th><th>45019</th></tr>
 <tr><th>DOUGLAS BARABACH</th><th>CARTA</th><th>44985</th><th>76</th><th>45004</th></tr>
-<tr><th>DOUGLAS MEINERZ</th><th>ENCOMENDA</th><th>45000</th><th>K6</th><th>45006</th></tr>
 <tr><th>DOUGLAS VIZENTAENER</th><th>CARTA</th><th>45000</th><th>65</th><th>45019</th></tr>
 <tr><th>EDEMAR RICHESKI</th><th>REGISTRADO</th><th>44987</th><th>B133</th><th>45006</th></tr>
+<tr><th>EDENILSON BUSCOSKI</th><th>ENCOMENDA</th><th>45001</th><th>H5</th><th>45007</th></tr>
 <tr><th>EDENILSON SUFFEZ</th><th>CARTA</th><th>44984</th><th>33</th><th>45003</th></tr>
 <tr><th>EDIMIR SOLANGE DORSDEK</th><th>CARTA</th><th>44985</th><th>51</th><th>45004</th></tr>
 <tr><th>EDINA VANESSA KAFKA BALAK</th><th>REGISTRADO</th><th>44985</th><th>B110</th><th>45004</th></tr>
 <tr><th>EDINEI KOVALCZYK</th><th>REGISTRADO</th><th>44999</th><th>B11</th><th>45018</th></tr>
+<tr><th>EDINEI KOVALCZYK</th><th>REGISTRADO</th><th>45001</th><th>B125</th><th>45020</th></tr>
 <tr><th>EDIOMIR DELLAJUSTINA</th><th>CARTA</th><th>44985</th><th>15</th><th>45004</th></tr>
 <tr><th>EDSON ANUAR OKOPNIK</th><th>CARTA</th><th>44985</th><th>48</th><th>45004</th></tr>
 <tr><th>EDUARDO AUGUSTO MALLON</th><th>CARTA</th><th>45000</th><th>3</th><th>45019</th></tr>
+<tr><th>EDUARDO CUSTODIO KOHUT</th><th>CARTA</th><th>45001</th><th>37</th><th>45020</th></tr>
 <tr><th>EDVIGES CICORA MIELEVSKI</th><th>CARTA</th><th>44985</th><th>28</th><th>45004</th></tr>
 <tr><th>EE COMERCIO VAREJISTA</th><th>CARTA</th><th>45000</th><th>5</th><th>45019</th></tr>
 <tr><th>EGON LUIZ ADAM</th><th>CARTA</th><th>45000</th><th>58</th><th>45019</th></tr>
 <tr><th>ELAINE SIKORA</th><th>CARTA</th><th>44994</th><th>15</th><th>45013</th></tr>
 <tr><th>ELCILENE LONGEN SADLOVSKI</th><th>CARTA</th><th>44984</th><th>57</th><th>45003</th></tr>
 <tr><th>ELCIO RUDNIK</th><th>CARTA</th><th>45000</th><th>71</th><th>45019</th></tr>
+<tr><th>ELCIONE LONGEN</th><th>REGISTRADO</th><th>45001</th><th>B113</th><th>45020</th></tr>
 <tr><th>ELEN CRIS VOLINGER DOS SANTOS</th><th>CARTA</th><th>44992</th><th>27</th><th>45011</th></tr>
 <tr><th>ELENICE BLONCKOWSKI NOVAKOWSKI</th><th>CARTA</th><th>44988</th><th>70</th><th>45007</th></tr>
 <tr><th>ELENITE SADLOWSKI STOPA</th><th>CARTA</th><th>44984</th><th>74</th><th>45003</th></tr>
@@ -234,6 +255,7 @@
 <tr><th>EVELYN SCHILEIDER</th><th>CARTA</th><th>44984</th><th>54</th><th>45003</th></tr>
 <tr><th>EVERTON BEJGER</th><th>ENCOMENDA</th><th>45000</th><th>K2</th><th>45006</th></tr>
 <tr><th>EZEQUIEL VELOZO</th><th>CARTA</th><th>44984</th><th>12</th><th>45003</th></tr>
+<tr><th>EZIO RUDNIK</th><th>REGISTRADO</th><th>45001</th><th>B16</th><th>45020</th></tr>
 <tr><th>FABIANA MACHADO</th><th>ENCOMENDA</th><th>45000</th><th>X3</th><th>45006</th></tr>
 <tr><th>FABIANO LUCAS GRAFF</th><th>CARTA</th><th>44994</th><th>47</th><th>45013</th></tr>
 <tr><th>FABIANO VICENTE</th><th>CARTA</th><th>44992</th><th>25</th><th>45011</th></tr>
@@ -241,7 +263,9 @@
 <tr><th>FABIO ABILIO FERREIRA</th><th>REGISTRADO</th><th>44985</th><th>B114</th><th>45004</th></tr>
 <tr><th>FABIO ABILIO FERREIRA DANHAIA</th><th>REGISTRADO</th><th>44992</th><th>B13</th><th>45011</th></tr>
 <tr><th>FABIO FALKIEVICZ</th><th>REGISTRADO</th><th>44985</th><th>B30</th><th>45004</th></tr>
+<tr><th>FABIO JOAO RECH</th><th>CARTA</th><th>45001</th><th>11</th><th>45020</th></tr>
 <tr><th>FABIO JUNIO CAPISTRANO</th><th>REGISTRADO</th><th>44999</th><th>B32</th><th>45018</th></tr>
+<tr><th>FABIO JUNIOR CAPISTRA</th><th>CARTA</th><th>45001</th><th>33</th><th>45020</th></tr>
 <tr><th>FABIO STEINER</th><th>ENCOMENDA</th><th>44998</th><th>Y11</th><th>45004</th></tr>
 <tr><th>FARMACIA PEDROSO CAETANO</th><th>CARTA</th><th>44988</th><th>85</th><th>45007</th></tr>
 <tr><th>FARMACIA PEDROSO CAETANO LTDA</th><th>ENCOMENDA</th><th>45000</th><th>D1</th><th>45006</th></tr>
@@ -256,9 +280,10 @@
 <tr><th>FERNANDA APARECIDA PFLEGER</th><th>ENCOMENDA</th><th>45000</th><th>Z3</th><th>45006</th></tr>
 <tr><th>FERNANDA DA ROSA</th><th>REGISTRADO</th><th>44987</th><th>B136</th><th>45006</th></tr>
 <tr><th>FERNANDES ESSER</th><th>CARTA</th><th>44984</th><th>91</th><th>45003</th></tr>
-<tr><th>FERNANDO CHIMINSKI</th><th>ENCOMENDA</th><th>44998</th><th>H9</th><th>45004</th></tr>
+<tr><th>FERNANDO DOBNER</th><th>REGISTRADO</th><th>45001</th><th>B148</th><th>45020</th></tr>
 <tr><th>FERNANDO MARCELO BERTOTI</th><th>CARTA</th><th>44985</th><th>21</th><th>45004</th></tr>
 <tr><th>FLAVIA MARA FELIPE CIDRAL</th><th>CARTA</th><th>44994</th><th>11</th><th>45013</th></tr>
+<tr><th>FLORICULTURA E FUNERARIA NOVA VIDA</th><th>CARTA</th><th>45001</th><th>5</th><th>45020</th></tr>
 <tr><th>FLORICULTURA NOVA VIDA</th><th>CARTA</th><th>44985</th><th>31</th><th>45004</th></tr>
 <tr><th>FRANCIANE KOWALCZIKOVSKI</th><th>ENCOMENDA</th><th>45000</th><th>L14</th><th>45006</th></tr>
 <tr><th>FRANCIEANE KOWALCZIKOVSKI</th><th>CARTA</th><th>44992</th><th>49</th><th>45011</th></tr>
@@ -271,6 +296,8 @@
 <tr><th>GENESIO ROGALESKI</th><th>REGISTRADO</th><th>44994</th><th>B47</th><th>45013</th></tr>
 <tr><th>GENIR ANTONIO JUNCKES</th><th>CARTA</th><th>44988</th><th>23</th><th>45007</th></tr>
 <tr><th>GENIR ANTONIO JUNCKES</th><th>REGISTRADO</th><th>44985</th><th>B92</th><th>45004</th></tr>
+<tr><th>GEOVANA BOSSI</th><th>REGISTRADO</th><th>45001</th><th>B64</th><th>45020</th></tr>
+<tr><th>GEOVANA PATERNO</th><th>CARTA</th><th>45001</th><th>49</th><th>45020</th></tr>
 <tr><th>GILMAR TOEBE</th><th>REGISTRADO</th><th>44987</th><th>B127</th><th>45006</th></tr>
 <tr><th>GILSON FRANCA</th><th>CARTA</th><th>45000</th><th>45</th><th>45019</th></tr>
 <tr><th>GILVANO BEJGER</th><th>CARTA</th><th>44994</th><th>49</th><th>45013</th></tr>
@@ -279,6 +306,7 @@
 <tr><th>GUILHERME ANTONIO EISING</th><th>CARTA</th><th>45000</th><th>66</th><th>45019</th></tr>
 <tr><th>GUSTAVO HENRIQUE DACYCHEN</th><th>CARTA</th><th>44999</th><th>12</th><th>45018</th></tr>
 <tr><th>HAMILTON ZEFERINO DA SILVA</th><th>CARTA</th><th>44992</th><th>22</th><th>45011</th></tr>
+<tr><th>HARI STEINOCHAK</th><th>CARTA</th><th>45001</th><th>34</th><th>45020</th></tr>
 <tr><th>HELENA KOHUT BEIGER</th><th>CARTA</th><th>44999</th><th>19</th><th>45018</th></tr>
 <tr><th>HELIO KOVALCZYKOWSKI</th><th>CARTA</th><th>44994</th><th>31</th><th>45013</th></tr>
 <tr><th>HELOISA AUGUSTIN GODINHO</th><th>CARTA</th><th>44992</th><th>83</th><th>45011</th></tr>
@@ -289,6 +317,7 @@
 <tr><th>HUGO CEZAR HARBS</th><th>REGISTRADO</th><th>44992</th><th>B155</th><th>45011</th></tr>
 <tr><th>IAN GAVRONSKI</th><th>ENCOMENDA</th><th>45000</th><th>L5</th><th>45006</th></tr>
 <tr><th>IDALINO FILHAKOSKI</th><th>CARTA</th><th>44992</th><th>12</th><th>45011</th></tr>
+<tr><th>IDELBERTO WOJCIECHOWSKI</th><th>REGISTRADO</th><th>45001</th><th>B33</th><th>45020</th></tr>
 <tr><th>IDENIR DE SOUZA</th><th>REGISTRADO</th><th>44994</th><th>B38</th><th>45013</th></tr>
 <tr><th>IEDA MARIA MAGGIONI</th><th>REGISTRADO</th><th>44987</th><th>B12</th><th>45006</th></tr>
 <tr><th>IGOR CEZAR SALVADOR</th><th>REGISTRADO</th><th>44999</th><th>B79</th><th>45018</th></tr>
@@ -296,6 +325,7 @@
 <tr><th>IGOR KOSTECKI</th><th>CARTA</th><th>44988</th><th>57</th><th>45007</th></tr>
 <tr><th>ILCEU DOS PASSOS</th><th>CARTA</th><th>44984</th><th>80</th><th>45003</th></tr>
 <tr><th>ILDA SIQUEIRA</th><th>CARTA</th><th>44988</th><th>19</th><th>45007</th></tr>
+<tr><th>ILISIANE KUCHLER</th><th>CARTA</th><th>45001</th><th>60</th><th>45020</th></tr>
 <tr><th>INACIO ADAO VATRAS</th><th>CARTA</th><th>44988</th><th>56</th><th>45007</th></tr>
 <tr><th>INACIO MONCZEVSKI</th><th>CARTA</th><th>44992</th><th>37</th><th>45011</th></tr>
 <tr><th>INACIO OZEIKA</th><th>REGISTRADO</th><th>44987</th><th>B139</th><th>45006</th></tr>
@@ -323,17 +353,22 @@
 <tr><th>JADER LUIZ NUNES DA SILVEIRA</th><th>CARTA</th><th>44994</th><th>28</th><th>45013</th></tr>
 <tr><th>JAIME CUSTODIO MACIEL</th><th>CARTA</th><th>44988</th><th>91</th><th>45007</th></tr>
 <tr><th>JAINE LUANA PIECZARKA</th><th>ENCOMENDA</th><th>45000</th><th>L6</th><th>45006</th></tr>
+<tr><th>JAIR AMARANTE</th><th>REGISTRADO</th><th>45001</th><th>B120</th><th>45020</th></tr>
+<tr><th>JAISON HOFFMANN</th><th>CARTA</th><th>45001</th><th>42</th><th>45020</th></tr>
 <tr><th>JANETE B P OLIVEIRA</th><th>CARTA</th><th>44992</th><th>32</th><th>45011</th></tr>
 <tr><th>JECLEISON NOLASCO</th><th>ENCOMENDA</th><th>45000</th><th>A3</th><th>45006</th></tr>
 <tr><th>JENIFFER MAIARA LOURENCO GOMES</th><th>ENCOMENDA</th><th>44998</th><th>D2</th><th>45004</th></tr>
 <tr><th>JESSICA WENGRENOVSKI</th><th>ENCOMENDA</th><th>45000</th><th>J4</th><th>45006</th></tr>
 <tr><th>JIAN ALEXANDRE LEHMANN</th><th>REGISTRADO</th><th>44985</th><th>B109</th><th>45004</th></tr>
+<tr><th>JOACIR DE LIMA</th><th>CARTA</th><th>45001</th><th>39</th><th>45020</th></tr>
+<tr><th>JOANIR DIAS</th><th>CARTA</th><th>45001</th><th>7</th><th>45020</th></tr>
 <tr><th>JOANIR DIAS</th><th>CARTA</th><th>44994</th><th>42</th><th>45013</th></tr>
 <tr><th>JOANIR MARTINS</th><th>CARTA</th><th>44985</th><th>58</th><th>45004</th></tr>
 <tr><th>JOANITA MARIA WICHORKIENVICZ PIECZARKA</th><th>CARTA</th><th>44994</th><th>26</th><th>45013</th></tr>
 <tr><th>JOAO ARILDO JAROCHESKI</th><th>CARTA</th><th>45000</th><th>67</th><th>45019</th></tr>
 <tr><th>JOAO ARILDO JAROCHESKI</th><th>CARTA</th><th>45000</th><th>69</th><th>45019</th></tr>
 <tr><th>JOAO BATISTA DE SOUZA</th><th>CARTA</th><th>44985</th><th>46</th><th>45004</th></tr>
+<tr><th>JOAO BATISTA FERNANDES</th><th>CARTA</th><th>45001</th><th>12</th><th>45020</th></tr>
 <tr><th>JOAO BATISTA FERNANDES</th><th>CARTA</th><th>44984</th><th>13</th><th>45003</th></tr>
 <tr><th>JOAO CARLOS BALAN</th><th>CARTA</th><th>44984</th><th>14</th><th>45003</th></tr>
 <tr><th>JOAO E P FERNANDES</th><th>CARTA</th><th>44988</th><th>71</th><th>45007</th></tr>
@@ -344,17 +379,9 @@
 <tr><th>JOCELI MARTINS</th><th>CARTA</th><th>44992</th><th>47</th><th>45011</th></tr>
 <tr><th>JOCENEI GRASSMANN</th><th>REGISTRADO</th><th>44994</th><th>B53</th><th>45013</th></tr>
 <tr><th>JOCIMAR MECIAS</th><th>CARTA</th><th>44984</th><th>83</th><th>45003</th></tr>
-<tr><th>JOE ROBSON KRAMEL</th><th>CARTA</th><th>44988</th><th>4</th><th>45007</th></tr>
-<tr><th>JOE ROBSON KRAMEL</th><th>CARTA</th><th>44985</th><th>16</th><th>45004</th></tr>
-<tr><th>JOE ROBSON KRAMEL</th><th>CARTA</th><th>44984</th><th>40</th><th>45003</th></tr>
-<tr><th>JOE ROBSON KRAMEL</th><th>CARTA</th><th>45000</th><th>68</th><th>45019</th></tr>
-<tr><th>JOE ROBSON KRAMEL</th><th>CARTA</th><th>44992</th><th>74</th><th>45011</th></tr>
-<tr><th>JOE ROBSON KRAMEL</th><th>CARTA</th><th>44985</th><th>79</th><th>45004</th></tr>
-<tr><th>JOE ROBSON KRAMEL</th><th>CARTA</th><th>44984</th><th>87</th><th>45003</th></tr>
-<tr><th>JOE ROBSON KRAMEL</th><th>REGISTRADO</th><th>44999</th><th>B20</th><th>45018</th></tr>
-<tr><th>JOE ROBSON KRAMEL</th><th>ENCOMENDA</th><th>44999</th><th>N2</th><th>45005</th></tr>
 <tr><th>JOEL BORTOLI CAMARGO</th><th>ENCOMENDA</th><th>45000</th><th>K8</th><th>45006</th></tr>
-<tr><th>JOEL KNIAZIEVSKI</th><th>ENCOMENDA</th><th>45000</th><th>K7</th><th>45006</th></tr>
+<tr><th>JOEL MARTINS</th><th>CARTA</th><th>45001</th><th>54</th><th>45020</th></tr>
+<tr><th>JOEL MARTINS</th><th>REGISTRADO</th><th>45001</th><th>B45</th><th>45020</th></tr>
 <tr><th>JOELCIO SCHMEDLER</th><th>CARTA</th><th>44992</th><th>57</th><th>45011</th></tr>
 <tr><th>JONAS WOJCIECHOWSKI</th><th>CARTA</th><th>44984</th><th>79</th><th>45003</th></tr>
 <tr><th>JORDELINO AMARANTE</th><th>REGISTRADO</th><th>44992</th><th>B151</th><th>45011</th></tr>
@@ -362,6 +389,7 @@
 <tr><th>JOSIANE SCHUELLER DE MELO</th><th>ENCOMENDA</th><th>44998</th><th>Y3</th><th>45004</th></tr>
 <tr><th>JOSIAS CARVALHO</th><th>CARTA</th><th>45000</th><th>42</th><th>45019</th></tr>
 <tr><th>JOSIMAR RUDNIK</th><th>CARTA</th><th>44985</th><th>66</th><th>45004</th></tr>
+<tr><th>JOSUEL DE LIMA MACHADO</th><th>CARTA</th><th>45001</th><th>24</th><th>45020</th></tr>
 <tr><th>JOYCE GOTERRA CAPISTRANI</th><th>ENCOMENDA</th><th>45000</th><th>L8</th><th>45006</th></tr>
 <tr><th>JUACIR NASCIMENTO</th><th>CARTA</th><th>44988</th><th>31</th><th>45007</th></tr>
 <tr><th>JUCELIA BURDZINSKI</th><th>CARTA</th><th>44984</th><th>73</th><th>45003</th></tr>
@@ -379,6 +407,7 @@
 <tr><th>LIDIA MARLI HLENKA</th><th>REGISTRADO</th><th>44985</th><th>B82</th><th>45004</th></tr>
 <tr><th>LIDIA PAULAKI</th><th>CARTA</th><th>44994</th><th>23</th><th>45013</th></tr>
 <tr><th>LIDIO RUDNIK</th><th>CARTA</th><th>44988</th><th>16</th><th>45007</th></tr>
+<tr><th>LILIANE A PIRES DE L</th><th>CARTA</th><th>45001</th><th>35</th><th>45020</th></tr>
 <tr><th>LILIANE APARECIDA PIRES DE LIMA</th><th>CARTA</th><th>45000</th><th>49</th><th>45019</th></tr>
 <tr><th>LILIANE BUENO VEIGA</th><th>CARTA</th><th>44994</th><th>3</th><th>45013</th></tr>
 <tr><th>LILIANE CAETANO BEJGER</th><th>CARTA</th><th>44994</th><th>46</th><th>45013</th></tr>
@@ -386,15 +415,19 @@
 <tr><th>LINDOMAR COSTA</th><th>CARTA</th><th>44985</th><th>53</th><th>45004</th></tr>
 <tr><th>LINIANE F KNOPP DE SOU</th><th>CARTA</th><th>44992</th><th>56</th><th>45011</th></tr>
 <tr><th>LIVINO PAWLACK</th><th>CARTA</th><th>44985</th><th>6</th><th>45004</th></tr>
+<tr><th>LIVINO PAWLACK</th><th>REGISTRADO</th><th>45001</th><th>B83</th><th>45020</th></tr>
 <tr><th>LONIZE MARIA PIECZARKA JUNCKES</th><th>CARTA</th><th>44994</th><th>19</th><th>45013</th></tr>
+<tr><th>LONIZE MARIA PIECZARKA JUNCKES</th><th>CARTA</th><th>45001</th><th>52</th><th>45020</th></tr>
 <tr><th>LORIVAL KAFKA</th><th>REGISTRADO</th><th>44987</th><th>B26</th><th>45006</th></tr>
 <tr><th>LOURDES OSINSKI FELIPE</th><th>CARTA</th><th>44988</th><th>11</th><th>45007</th></tr>
 <tr><th>LUAN CESAR GULIK</th><th>CARTA</th><th>44994</th><th>14</th><th>45013</th></tr>
 <tr><th>LUANA JUBANSKI</th><th>ENCOMENDA</th><th>45000</th><th>M8</th><th>45006</th></tr>
 <tr><th>LUCAS ATILA DE LIMA</th><th>REGISTRADO</th><th>44987</th><th>B18</th><th>45006</th></tr>
+<tr><th>LUCIA BILISKI</th><th>CARTA</th><th>45001</th><th>16</th><th>45020</th></tr>
 <tr><th>LUCIANA ALVES FERNANDES</th><th>CARTA</th><th>44984</th><th>50</th><th>45003</th></tr>
 <tr><th>LUCIANA ALVES FERNANDES</th><th>CARTA</th><th>44985</th><th>64</th><th>45004</th></tr>
 <tr><th>LUCIANA MUSTEFAGA</th><th>ENCOMENDA</th><th>45000</th><th>G3</th><th>45006</th></tr>
+<tr><th>LUCIANO ESSER</th><th>CARTA</th><th>45001</th><th>1</th><th>45020</th></tr>
 <tr><th>LUCILA KUCHLER</th><th>CARTA</th><th>44992</th><th>88</th><th>45011</th></tr>
 <tr><th>LUCILDA STANGE</th><th>REGISTRADO</th><th>44987</th><th>B131</th><th>45006</th></tr>
 <tr><th>LUCIMARA NIEMEIER</th><th>CARTA</th><th>44984</th><th>32</th><th>45003</th></tr>
@@ -419,11 +452,15 @@
 <tr><th>MARCELO KELLER</th><th>REGISTRADO</th><th>44987</th><th>B126</th><th>45006</th></tr>
 <tr><th>MARCIA LUCIANA BLONKOVSKI EISING</th><th>CARTA</th><th>44984</th><th>42</th><th>45003</th></tr>
 <tr><th>MARCIO DASZECHEN</th><th>CARTA</th><th>44985</th><th>69</th><th>45004</th></tr>
-<tr><th>MARCIO DIAS MACHADO</th><th>REGISTRADO</th><th>44999</th><th>B71</th><th>45018</th></tr>
+<tr><th>MARCIO FERNANDES</th><th>REGISTRADO</th><th>45001</th><th>B52</th><th>45020</th></tr>
+<tr><th>MARCIO FERNANDES</th><th>REGISTRADO</th><th>45001</th><th>B52</th><th>45020</th></tr>
+<tr><th>MARCIO FERNANDES</th><th>REGISTRADO</th><th>45001</th><th>B52</th><th>45020</th></tr>
+<tr><th>MARCIO FERNANDES</th><th>REGISTRADO</th><th>45001</th><th>B56</th><th>45020</th></tr>
 <tr><th>MARCIO FERNANDES</th><th>REGISTRADO</th><th>44985</th><th>B80</th><th>45004</th></tr>
 <tr><th>MARCO ANTONIO NENEMANN</th><th>CARTA</th><th>44994</th><th>17</th><th>45013</th></tr>
 <tr><th>MARCOS ANTONIO FERRARI</th><th>CARTA</th><th>44988</th><th>41</th><th>45007</th></tr>
 <tr><th>MARCOS ANTONIO VARELLA</th><th>CARTA</th><th>44988</th><th>12</th><th>45007</th></tr>
+<tr><th>MARCOS FELIPI</th><th>REGISTRADO</th><th>45001</th><th>B42</th><th>45020</th></tr>
 <tr><th>MARCOS RESSEL</th><th>CARTA</th><th>45000</th><th>37</th><th>45019</th></tr>
 <tr><th>MARCOS ROBERTO DA ROCHA</th><th>CARTA</th><th>45000</th><th>54</th><th>45019</th></tr>
 <tr><th>MARGARIDA JUNKES MULLER</th><th>CARTA</th><th>44988</th><th>15</th><th>45007</th></tr>
@@ -440,14 +477,19 @@
 <tr><th>MARILIA APARECIDA DONADELI</th><th>REGISTRADO</th><th>44987</th><th>B66</th><th>45006</th></tr>
 <tr><th>MARINALVA SCHWARTZ</th><th>ENCOMENDA</th><th>45000</th><th>M7</th><th>45006</th></tr>
 <tr><th>MARINALVA SCHWARTZ</th><th>ENCOMENDA</th><th>44998</th><th>Z2</th><th>45004</th></tr>
+<tr><th>MARINEIRE CAPISTRANO CAETANO</th><th>REGISTRADO</th><th>45001</th><th>B144</th><th>45020</th></tr>
 <tr><th>MARINEUSA MARCIANO PAVLAK</th><th>CARTA</th><th>44985</th><th>38</th><th>45004</th></tr>
 <tr><th>MARISTELA NASCIMENTO PADILHA</th><th>CARTA</th><th>44985</th><th>44</th><th>45004</th></tr>
 <tr><th>MARIVANIA MORAIS</th><th>CARTA</th><th>44992</th><th>28</th><th>45011</th></tr>
+<tr><th>MARIVANIA MORAIS</th><th>CARTA</th><th>45001</th><th>41</th><th>45020</th></tr>
 <tr><th>MARLENE IAROCHESKI DUNS</th><th>CARTA</th><th>44984</th><th>20</th><th>45003</th></tr>
 <tr><th>MARLENE PEREIRA DOS SANTOS PETRY</th><th>CARTA</th><th>44985</th><th>50</th><th>45004</th></tr>
+<tr><th>MARLI SCHNEIDER TOE</th><th>REGISTRADO</th><th>45001</th><th>B156</th><th>45020</th></tr>
+<tr><th>MARLI SCHNEIDER TOEBE</th><th>CARTA</th><th>45001</th><th>43</th><th>45020</th></tr>
 <tr><th>MARLON CESAR DA SILVA</th><th>CARTA</th><th>44988</th><th>53</th><th>45007</th></tr>
 <tr><th>MARLON CESAR DA SILVA</th><th>REGISTRADO</th><th>44985</th><th>B103</th><th>45004</th></tr>
 <tr><th>MARTA DE FREITAS</th><th>CARTA</th><th>44985</th><th>10</th><th>45004</th></tr>
+<tr><th>MATEUS DZUMAN</th><th>REGISTRADO</th><th>45001</th><th>B68</th><th>45020</th></tr>
 <tr><th>MATEUS NERY DE AGUIAR</th><th>CARTA</th><th>44988</th><th>46</th><th>45007</th></tr>
 <tr><th>MATIAS MORETTO</th><th>CARTA</th><th>44992</th><th>6</th><th>45011</th></tr>
 <tr><th>MATILDE MIRANDA</th><th>CARTA</th><th>44994</th><th>21</th><th>45013</th></tr>
@@ -474,12 +516,16 @@
 <tr><th>NATALICIO JUBANSKI</th><th>CARTA</th><th>44992</th><th>68</th><th>45011</th></tr>
 <tr><th>NATHAN LUIZ KLOCH</th><th>CARTA</th><th>44992</th><th>41</th><th>45011</th></tr>
 <tr><th>NATHIELI DE AVILA MARKOSKI</th><th>REGISTRADO</th><th>44985</th><th>B10</th><th>45004</th></tr>
+<tr><th>NELSO JOSE ZALASKO</th><th>CARTA</th><th>45001</th><th>27</th><th>45020</th></tr>
 <tr><th>NELSO JOSE ZALASKO</th><th>CARTA</th><th>44984</th><th>66</th><th>45003</th></tr>
 <tr><th>NELSO STOPA</th><th>REGISTRADO</th><th>44985</th><th>B78</th><th>45004</th></tr>
 <tr><th>NELSON GOETTEN DE SOUZA</th><th>CARTA</th><th>44988</th><th>47</th><th>45007</th></tr>
 <tr><th>NEREU CACKOWSKI</th><th>CARTA</th><th>44992</th><th>20</th><th>45011</th></tr>
 <tr><th>NICEAS JOAO KICHLER</th><th>CARTA</th><th>44988</th><th>49</th><th>45007</th></tr>
 <tr><th>NICOLAS METZGER</th><th>ENCOMENDA</th><th>44998</th><th>H4</th><th>45004</th></tr>
+<tr><th>NIGUEL STOPA NETO</th><th>CARTA</th><th>45001</th><th>36</th><th>45020</th></tr>
+<tr><th>NILSO ZALASCO</th><th>CARTA</th><th>45001</th><th>6</th><th>45020</th></tr>
+<tr><th>NILTO ANACLETO COSTA</th><th>CARTA</th><th>45001</th><th>26</th><th>45020</th></tr>
 <tr><th>NOACIR R MARAFIGO</th><th>REGISTRADO</th><th>44992</th><th>B1</th><th>45011</th></tr>
 <tr><th>NORMA TRANSPORTES</th><th>CARTA</th><th>44985</th><th>12</th><th>45004</th></tr>
 <tr><th>ODAIR JOSE GELSLEICHTER</th><th>CARTA</th><th>45000</th><th>20</th><th>45019</th></tr>
@@ -495,18 +541,22 @@
 <tr><th>OLGA PAWLAK</th><th>CARTA</th><th>44994</th><th>20</th><th>45013</th></tr>
 <tr><th>OLIVIO DO NASCIMENTO</th><th>CARTA</th><th>44984</th><th>92</th><th>45003</th></tr>
 <tr><th>ORLEY HAVRELHUK</th><th>ENCOMENDA</th><th>45000</th><th>H12</th><th>45006</th></tr>
+<tr><th>OSMAR BATISTA</th><th>CARTA</th><th>45001</th><th>51</th><th>45020</th></tr>
 <tr><th>OSMAR KNIAZEVSKI</th><th>CARTA</th><th>44992</th><th>70</th><th>45011</th></tr>
+<tr><th>OSMAR WALDRICH</th><th>REGISTRADO</th><th>45001</th><th>B157</th><th>45020</th></tr>
 <tr><th>OSNI SIQUEIRA</th><th>REGISTRADO</th><th>44985</th><th>B72</th><th>45004</th></tr>
-<tr><th>PABLO NOVAKOWSKI</th><th>ENCOMENDA</th><th>45000</th><th>A8</th><th>45006</th></tr>
 <tr><th>PAMELA GIORDANA PEREIRA</th><th>CARTA</th><th>44994</th><th>34</th><th>45013</th></tr>
 <tr><th>PAMELA GIORDANA PEREIRA</th><th>CARTA</th><th>44992</th><th>65</th><th>45011</th></tr>
 <tr><th>PANIFICADORA PAO DO DIA LTDA ME</th><th>ENCOMENDA</th><th>45000</th><th>A5</th><th>45006</th></tr>
 <tr><th>PATRICIA BELLI</th><th>CARTA</th><th>45000</th><th>11</th><th>45019</th></tr>
 <tr><th>PATRICIA BOSSI ROMANIO</th><th>ENCOMENDA</th><th>44998</th><th>J3</th><th>45004</th></tr>
+<tr><th>PATRICIA ELISA ADAM</th><th>CARTA</th><th>45001</th><th>28</th><th>45020</th></tr>
+<tr><th>PATRICIA MONCZEVSKI</th><th>CARTA</th><th>45001</th><th>3</th><th>45020</th></tr>
 <tr><th>PATRICIA SCHNEIDER</th><th>CARTA</th><th>45000</th><th>1</th><th>45019</th></tr>
-<tr><th>PAULINHO DZUMAN</th><th>CARTA</th><th>44984</th><th>55</th><th>45003</th></tr>
+<tr><th>PAULO CESAR CEOLIN</th><th>CARTA</th><th>45001</th><th>18</th><th>45020</th></tr>
 <tr><th>PAULO KOHUT</th><th>CARTA</th><th>44988</th><th>69</th><th>45007</th></tr>
 <tr><th>PAULO NECZYPOR NETO</th><th>REGISTRADO</th><th>44987</th><th>B122</th><th>45006</th></tr>
+<tr><th>PAULO SCHAICOSKI NETO</th><th>CARTA</th><th>45001</th><th>31</th><th>45020</th></tr>
 <tr><th>PEREIRA E GULIK</th><th>CARTA</th><th>44984</th><th>47</th><th>45003</th></tr>
 <tr><th>PEREIRA E GULIK</th><th>CARTA</th><th>44984</th><th>48</th><th>45003</th></tr>
 <tr><th>PEREIRA E GULIK</th><th>CARTA</th><th>44992</th><th>78</th><th>45011</th></tr>
@@ -514,11 +564,13 @@
 <tr><th>PIETRO BATTISTI PETRIS</th><th>REGISTRADO</th><th>44999</th><th>B61</th><th>45018</th></tr>
 <tr><th>PIJURAUTO</th><th>CARTA</th><th>44984</th><th>18</th><th>45003</th></tr>
 <tr><th>PIJURAUTO CENTRO AUTOMOTIVO</th><th>CARTA</th><th>44992</th><th>89</th><th>45011</th></tr>
+<tr><th>PIJURAUTO COMERCIO DE DERIVADOS</th><th>CARTA</th><th>45001</th><th>4</th><th>45020</th></tr>
 <tr><th>PIJURAUTO COMERCIO DE DERIVADOS</th><th>REGISTRADO</th><th>44987</th><th>B17</th><th>45006</th></tr>
 <tr><th>PIJURAUTO COMERCIO DE DERIVADOS DE</th><th>REGISTRADO</th><th>44994</th><th>B22</th><th>45013</th></tr>
 <tr><th>PIJURAUTO SERVICOS</th><th>ENCOMENDA</th><th>45000</th><th>X5</th><th>45006</th></tr>
 <tr><th>PILATES E FISIOTERAPIA PATRICIA ELISA</th><th>CARTA</th><th>44988</th><th>86</th><th>45007</th></tr>
 <tr><th>POLACO TRANSPORTES</th><th>REGISTRADO</th><th>44985</th><th>B90</th><th>45004</th></tr>
+<tr><th>PONTO ELETRONICOS</th><th>CARTA</th><th>45001</th><th>44</th><th>45020</th></tr>
 <tr><th>PONTO ELETRONICOS</th><th>CARTA</th><th>44984</th><th>49</th><th>45003</th></tr>
 <tr><th>POSTO ALTO SANTA TEREZINHA</th><th>CARTA</th><th>44988</th><th>87</th><th>45007</th></tr>
 <tr><th>PRCILA LONGEN</th><th>CARTA</th><th>44999</th><th>2</th><th>45018</th></tr>
@@ -527,9 +579,11 @@
 <tr><th>RAMON F DEMETRIO</th><th>CARTA</th><th>44985</th><th>71</th><th>45004</th></tr>
 <tr><th>REGINA SZCBELSKI</th><th>CARTA</th><th>44994</th><th>52</th><th>45013</th></tr>
 <tr><th>RENATA SADLOWSKI</th><th>CARTA</th><th>44994</th><th>13</th><th>45013</th></tr>
+<tr><th>RIBERTO LUIZ PIECZARKA</th><th>CARTA</th><th>45001</th><th>40</th><th>45020</th></tr>
 <tr><th>RICARDO BUENO</th><th>ENCOMENDA</th><th>45000</th><th>I8</th><th>45006</th></tr>
 <tr><th>RICARDO S</th><th>CARTA</th><th>45000</th><th>51</th><th>45019</th></tr>
 <tr><th>RITA JUBANSKI</th><th>CARTA</th><th>44988</th><th>48</th><th>45007</th></tr>
+<tr><th>ROBERTA MACHADO SIKORA DE</th><th>REGISTRADO</th><th>45001</th><th>B9</th><th>45020</th></tr>
 <tr><th>ROBERTA MARIA RIBEIRO</th><th>ENCOMENDA</th><th>45000</th><th>I5</th><th>45006</th></tr>
 <tr><th>ROBERTO KNIAREWSKI</th><th>CARTA</th><th>44994</th><th>54</th><th>45013</th></tr>
 <tr><th>ROBERTO KOTELAK</th><th>CARTA</th><th>45000</th><th>61</th><th>45019</th></tr>
@@ -537,6 +591,7 @@
 <tr><th>ROBERTO STOEBERL</th><th>CARTA</th><th>44994</th><th>22</th><th>45013</th></tr>
 <tr><th>ROBSON FERNANDES</th><th>REGISTRADO</th><th>44992</th><th>B21</th><th>45011</th></tr>
 <tr><th>ROBSON FRACAO</th><th>REGISTRADO</th><th>44999</th><th>B5</th><th>45018</th></tr>
+<tr><th>ROBSON FRACAO</th><th>REGISTRADO</th><th>45001</th><th>B15</th><th>45020</th></tr>
 <tr><th>RODRIGO G DO NASCIMENTO</th><th>CARTA</th><th>44992</th><th>17</th><th>45011</th></tr>
 <tr><th>ROGERIO SCHMITT</th><th>REGISTRADO</th><th>44985</th><th>B101</th><th>45004</th></tr>
 <tr><th>RONALDO MANOEL DA ROSA</th><th>CARTA</th><th>45000</th><th>14</th><th>45019</th></tr>
@@ -559,8 +614,8 @@
 <tr><th>SAINARA JIANI CAETANO BEJGER</th><th>CARTA</th><th>44994</th><th>38</th><th>45013</th></tr>
 <tr><th>SALESIO SIQUEIRA</th><th>CARTA</th><th>44988</th><th>1</th><th>45007</th></tr>
 <tr><th>SALEZIO KORLASPKE</th><th>REGISTRADO</th><th>44987</th><th>B27</th><th>45006</th></tr>
-<tr><th>SAMOEL KUIAVA</th><th>ENCOMENDA</th><th>44998</th><th>Y15</th><th>45004</th></tr>
 <tr><th>SAMUEL CIDRAL</th><th>CARTA</th><th>44988</th><th>10</th><th>45007</th></tr>
+<tr><th>SAMUEL CIDRAL</th><th>CARTA</th><th>45001</th><th>19</th><th>45020</th></tr>
 <tr><th>SAMUEL MARCO GOTERRA</th><th>CARTA</th><th>44988</th><th>13</th><th>45007</th></tr>
 <tr><th>SANDRA ADRIANA DOS SANTOS MINETTO</th><th>REGISTRADO</th><th>44987</th><th>B112</th><th>45006</th></tr>
 <tr><th>SANDRA MARA BURIGO</th><th>CARTA</th><th>44992</th><th>52</th><th>45011</th></tr>
@@ -574,6 +629,7 @@
 <tr><th>SEONIR DA ROCHA</th><th>CARTA</th><th>44994</th><th>12</th><th>45013</th></tr>
 <tr><th>SHIRLEY WORM MARQUES</th><th>CARTA</th><th>44999</th><th>16</th><th>45018</th></tr>
 <tr><th>SICOOB</th><th>CARTA</th><th>44992</th><th>82</th><th>45011</th></tr>
+<tr><th>SIDNEI SAIDEL</th><th>REGISTRADO</th><th>45001</th><th>B6</th><th>45020</th></tr>
 <tr><th>SIDNEI SAIDEL</th><th>REGISTRADO</th><th>44999</th><th>B73</th><th>45018</th></tr>
 <tr><th>SILMAR FERREIRA DOS SANTOS</th><th>ENCOMENDA</th><th>45000</th><th>L10</th><th>45006</th></tr>
 <tr><th>SILMARA APARECIDA QUIRINO DE MARCOS</th><th>REGISTRADO</th><th>44999</th><th>B70</th><th>45018</th></tr>
@@ -582,11 +638,15 @@
 <tr><th>SILVANI FELIPPE</th><th>REGISTRADO</th><th>44994</th><th>B48</th><th>45013</th></tr>
 <tr><th>SILVERO VITORINO</th><th>REGISTRADO</th><th>44992</th><th>B152</th><th>45011</th></tr>
 <tr><th>SILVIO LEMES</th><th>CARTA</th><th>45000</th><th>60</th><th>45019</th></tr>
+<tr><th>SILVIO ZANINI JUNIOR</th><th>CARTA</th><th>45001</th><th>22</th><th>45020</th></tr>
 <tr><th>SILVIO ZANINI JUNIOR</th><th>CARTA</th><th>44992</th><th>43</th><th>45011</th></tr>
 <tr><th>SIMONE F ANDRADE</th><th>CARTA</th><th>44992</th><th>31</th><th>45011</th></tr>
 <tr><th>SIMONE FERREIRA</th><th>ENCOMENDA</th><th>45000</th><th>L4</th><th>45006</th></tr>
 <tr><th>SIMONI DE FATIMA SUFFEZ</th><th>REGISTRADO</th><th>44987</th><th>B118</th><th>45006</th></tr>
 <tr><th>SINARA DE SOUZA WANGLON RUTZEN</th><th>REGISTRADO</th><th>44987</th><th>B134</th><th>45006</th></tr>
+<tr><th>SINDICATO DOS PRODUTORES</th><th>CARTA</th><th>45001</th><th>58</th><th>45020</th></tr>
+<tr><th>SINDICATO DOS PRODUTORES</th><th>CARTA</th><th>45001</th><th>59</th><th>45020</th></tr>
+<tr><th>SINDICATO DOS PRODUTORES</th><th>CARTA</th><th>45001</th><th>62</th><th>45020</th></tr>
 <tr><th>SOELI MACHADO DA SILVA</th><th>CARTA</th><th>44992</th><th>9</th><th>45011</th></tr>
 <tr><th>SOFIA SAVICKI</th><th>CARTA</th><th>44988</th><th>17</th><th>45007</th></tr>
 <tr><th>SOLANGE APARECIDA GARLINI</th><th>REGISTRADO</th><th>44987</th><th>B132</th><th>45006</th></tr>
@@ -595,8 +655,6 @@
 <tr><th>TAIS INACIO</th><th>ENCOMENDA</th><th>45000</th><th>M3</th><th>45006</th></tr>
 <tr><th>TAISE MANCZEVSKI</th><th>REGISTRADO</th><th>44985</th><th>B37</th><th>45004</th></tr>
 <tr><th>TAISE ROSANA KESTRING</th><th>CARTA</th><th>44988</th><th>60</th><th>45007</th></tr>
-<tr><th>TARCISIO NUNES JUNIOR</th><th>ENCOMENDA</th><th>45000</th><th>C4</th><th>45006</th></tr>
-<tr><th>TARCISIO NUNES JUNIOR</th><th>ENCOMENDA</th><th>45000</th><th>E1</th><th>45006</th></tr>
 <tr><th>TATIANE RODRIGUES</th><th>REGISTRADO</th><th>44985</th><th>B95</th><th>45004</th></tr>
 <tr><th>TEODOSIA MARIA WAZNY OKOPNIK</th><th>REGISTRADO</th><th>44985</th><th>B107</th><th>45004</th></tr>
 <tr><th>TEREZINHA KERSCHER SAVITSKI</th><th>CARTA</th><th>44992</th><th>14</th><th>45011</th></tr>
@@ -604,7 +662,6 @@
 <tr><th>TEREZINHA RECH</th><th>CARTA</th><th>44985</th><th>62</th><th>45004</th></tr>
 <tr><th>THAINARA REGEANE GOTTSCHALK</th><th>CARTA</th><th>45000</th><th>31</th><th>45019</th></tr>
 <tr><th>THIAGO DE VARGAS MARTINS</th><th>CARTA</th><th>45000</th><th>34</th><th>45019</th></tr>
-<tr><th>THIAGO DE VARGAS MARTINS</th><th>ENCOMENDA</th><th>45000</th><th>K9</th><th>45006</th></tr>
 <tr><th>TIAGO RODRIGUES</th><th>REGISTRADO</th><th>44992</th><th>B74</th><th>45011</th></tr>
 <tr><th>TRANSPORTE DINAMIC</th><th>CARTA</th><th>44992</th><th>42</th><th>45011</th></tr>
 <tr><th>TRANSPORTES HARBS</th><th>CARTA</th><th>44984</th><th>15</th><th>45003</th></tr>
@@ -617,7 +674,9 @@
 <tr><th>VALDECIR ELETROMOVEIS</th><th>CARTA</th><th>44999</th><th>22</th><th>45018</th></tr>
 <tr><th>VALDECIR ELETROMOVEIS</th><th>CARTA</th><th>44984</th><th>85</th><th>45003</th></tr>
 <tr><th>VALDEMIRO ALVES</th><th>CARTA</th><th>44984</th><th>7</th><th>45003</th></tr>
+<tr><th>VALDIR BECKERS</th><th>CARTA</th><th>45001</th><th>46</th><th>45020</th></tr>
 <tr><th>VALDIR CAETANO</th><th>REGISTRADO</th><th>44985</th><th>B86</th><th>45004</th></tr>
+<tr><th>VALDIR GARLINI</th><th>CARTA</th><th>45001</th><th>15</th><th>45020</th></tr>
 <tr><th>VALDIR KALBUNDE</th><th>CARTA</th><th>44999</th><th>6</th><th>45018</th></tr>
 <tr><th>VALDIR KLABUNDE</th><th>CARTA</th><th>44985</th><th>25</th><th>45004</th></tr>
 <tr><th>VALDIR SAVITSKI</th><th>REGISTRADO</th><th>44985</th><th>B91</th><th>45004</th></tr>
@@ -630,20 +689,19 @@
 <tr><th>VALIRIA SCHWARZ</th><th>CARTA</th><th>45000</th><th>7</th><th>45019</th></tr>
 <tr><th>VALIRIA SCHWARZ E CIA</th><th>CARTA</th><th>44992</th><th>21</th><th>45011</th></tr>
 <tr><th>VALIRIA SCHWARZ SPINDULA</th><th>CARTA</th><th>45000</th><th>74</th><th>45019</th></tr>
-<tr><th>VALMIR CUSTODIO DOS SANTOS</th><th>CARTA</th><th>44999</th><th>21</th><th>45018</th></tr>
-<tr><th>VALMIR CUSTODIO DOS SANTOS</th><th>ENCOMENDA</th><th>45000</th><th>G2</th><th>45006</th></tr>
-<tr><th>VALMIR CUSTODIO DOS SANTOS</th><th>ENCOMENDA</th><th>45000</th><th>N1</th><th>45006</th></tr>
 <tr><th>VALMIR PEDRO VIEIRA</th><th>CARTA</th><th>44994</th><th>29</th><th>45013</th></tr>
 <tr><th>VALQUIRIA SCHWARZ</th><th>CARTA</th><th>44992</th><th>87</th><th>45011</th></tr>
 <tr><th>VANDERLEI PESZYBUA</th><th>CARTA</th><th>45000</th><th>44</th><th>45019</th></tr>
 <tr><th>VANDERLEIA TOMACHEVSKI</th><th>CARTA</th><th>44988</th><th>22</th><th>45007</th></tr>
 <tr><th>VANDERLEIA TOMACHEVSKI</th><th>CARTA</th><th>44984</th><th>43</th><th>45003</th></tr>
 <tr><th>VANESSA FERNANDES</th><th>ENCOMENDA</th><th>44998</th><th>A4</th><th>45004</th></tr>
+<tr><th>VANESSA SCHUBERT AC</th><th>CARTA</th><th>45001</th><th>29</th><th>45020</th></tr>
 <tr><th>VANIA SCHMINSKI</th><th>REGISTRADO</th><th>44999</th><th>B94</th><th>45018</th></tr>
 <tr><th>VICTOR H S A</th><th>CARTA</th><th>45000</th><th>52</th><th>45019</th></tr>
 <tr><th>VILMAR CUSTODIO DOS SANTOS</th><th>CARTA</th><th>44994</th><th>40</th><th>45013</th></tr>
 <tr><th>VILMAR DEMETRIO KORENIUSKI</th><th>ENCOMENDA</th><th>45000</th><th>L12</th><th>45006</th></tr>
 <tr><th>VILMAR STUNPF DA ROZA</th><th>CARTA</th><th>44985</th><th>47</th><th>45004</th></tr>
+<tr><th>VITOLDO CACKOWSKI</th><th>REGISTRADO</th><th>45001</th><th>B158</th><th>45020</th></tr>
 <tr><th>VITORHUGO FERNANDES VITORINO</th><th>CARTA</th><th>44992</th><th>5</th><th>45011</th></tr>
 <tr><th>VITORHUGO FERNANDES VITORINO</th><th>REGISTRADO</th><th>44992</th><th>B153</th><th>45011</th></tr>
 <tr><th>VITORIA ELIS SPINDULA</th><th>CARTA</th><th>44992</th><th>73</th><th>45011</th></tr>
@@ -652,15 +710,13 @@
 <tr><th>WA CONFECCOES</th><th>CARTA</th><th>44992</th><th>1</th><th>45011</th></tr>
 <tr><th>WA CONFECCOES</th><th>CARTA</th><th>44984</th><th>37</th><th>45003</th></tr>
 <tr><th>WAGNER GOTERRA</th><th>CARTA</th><th>44994</th><th>32</th><th>45013</th></tr>
+<tr><th>WAGNER GOTERRA</th><th>CARTA</th><th>45001</th><th>38</th><th>45020</th></tr>
 <tr><th>WAGNER PAULHAK</th><th>ENCOMENDA</th><th>44998</th><th>J1</th><th>45004</th></tr>
 <tr><th>WENCESLAU SADLOVSKI</th><th>CARTA</th><th>44984</th><th>45</th><th>45003</th></tr>
 <tr><th>WESLEY CARVALHO DE LIMA</th><th>REGISTRADO</th><th>44985</th><th>B25</th><th>45004</th></tr>
-<tr><th>WILSON SANTANA</th><th>ENCOMENDA</th><th>45000</th><th>A6</th><th>45006</th></tr>
 <tr><th>WITE ROTAVA RISSO</th><th>CARTA</th><th>44985</th><th>61</th><th>45004</th></tr>
 <tr><th>WPG CONFECCOES</th><th>CARTA</th><th>44992</th><th>8</th><th>45011</th></tr>
 <tr><th>ZENAIDE BECKHAUSER</th><th>CARTA</th><th>44992</th><th>26</th><th>45011</th></tr>
 <tr><th>ZENILDA RUDNIK SCHMINSKI</th><th>REGISTRADO</th><th>44992</th><th>B154</th><th>45011</th></tr>
 <tr><th>ZOLMIR GELSLEICHTER</th><th>CARTA</th><th>45000</th><th>26</th><th>45019</th></tr>
-<tr><th>ZULMIRA LONGE</th><th>ENCOMENDA</th><th>45000</th><th>H13</th><th>45006</th></tr>
-<tr><th>ZULMIRA LONGEN PFEIFER</th><th>ENCOMENDA</th><th>45000</th><th>M5</th><th>45006</th></tr>
 </table>
