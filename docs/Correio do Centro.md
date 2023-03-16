@@ -1,4 +1,4 @@
-←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista)
+←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
 ## DADOS ATUALIZADOS EM: 15/3/2023 ÀS 21 HORAS.
