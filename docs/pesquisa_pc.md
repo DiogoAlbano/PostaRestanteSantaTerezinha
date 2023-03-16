@@ -1,3 +1,5 @@
+←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
+
 * Use o comando CTRL + F ou abra o menu conforme imagem abaixo:
 
 ![image](https://user-images.githubusercontent.com/14006349/225466657-4140a466-3fd8-46ba-9e54-d23d6b19ae70.png)
