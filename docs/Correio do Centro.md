@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 16/3/2023 ÀS 16 HORAS.
+## DADOS ATUALIZADOS EM: 17/3/2023 ÀS 7 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -9,6 +9,7 @@
 
 
 <table><tr><th>NOME</th><th>TIPO</th><th>RECEBIDO EM</th><th>POSIÇÃO</th><th>RETIRAR ATÉ</th></tr>
+<tr><th>ABEL KOHUT</th><th>REGISTRADO</th><th>09/03/23</th><th>B29</th><th>28/03/23</th></tr>
 <tr><th>ACAZ SCHMECKEL</th><th>REGISTRADO</th><th>07/03/23</th><th>B59</th><th>26/03/23</th></tr>
 <tr><th>ADAO GARLINI</th><th>CARTA</th><th>16/03/23</th><th>30</th><th>04/04/23</th></tr>
 <tr><th>ADELIO CLAUDINO</th><th>CARTA</th><th>28/02/23</th><th>19</th><th>19/03/23</th></tr>
