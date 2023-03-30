@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 29/3/2023 ÀS 15:00 HORAS.
+## DADOS ATUALIZADOS EM: 30/3/2023 ÀS 7:55 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -35,7 +35,6 @@
 <tr><th>ALCIDES ALVES DIAS</th><th>CARTA</th><th>27/03/23</th><th>43</th><th>15/04/23</th></tr>
 <tr><th>ALEX JUNCKES</th><th>REGISTRADO</th><th>14/03/23</th><th>B36</th><th>02/04/23</th></tr>
 <tr><th>ALEXANDRE CHIKOSKI</th><th>CARTA</th><th>22/03/23</th><th>64</th><th>10/04/23</th></tr>
-<tr><th>ALEXANDRO HAAG</th><th>ENCOMENDA</th><th>29/03/23</th><th>L4</th><th>04/04/23</th></tr>
 <tr><th>ALFREDO VENDRAMIN</th><th>CARTA</th><th>29/03/23</th><th>22</th><th>17/04/23</th></tr>
 <tr><th>ALINE AUGUSTIN</th><th>CARTA</th><th>27/03/23</th><th>33</th><th>15/04/23</th></tr>
 <tr><th>ALINE BALAN SPANAVELO</th><th>ENCOMENDA</th><th>24/03/23</th><th>A6</th><th>30/03/23</th></tr>
@@ -111,9 +110,7 @@
 <tr><th>CLAUDENIR WALDRICH</th><th>CARTA</th><th>22/03/23</th><th>7</th><th>10/04/23</th></tr>
 <tr><th>CLAUDENIR WALDRICH</th><th>CARTA</th><th>17/03/23</th><th>22</th><th>05/04/23</th></tr>
 <tr><th>CLAUDENIR WALDRICH</th><th>REGISTRADO</th><th>23/03/23</th><th>B60</th><th>11/04/23</th></tr>
-<tr><th>CLAUDETE DORSNY RODRIGUES</th><th>CARTA</th><th>15/03/23</th><th>2</th><th>03/04/23</th></tr>
 <tr><th>CLAUDETE DORSNY RODRIGUES</th><th>CARTA</th><th>22/03/23</th><th>17</th><th>10/04/23</th></tr>
-<tr><th>CLAUDETE DROSNY RODRIGUES</th><th>ENCOMENDA</th><th>27/03/23</th><th>A8</th><th>02/04/23</th></tr>
 <tr><th>CLAUDINEI CACKOWSKI</th><th>CARTA</th><th>27/03/23</th><th>2</th><th>15/04/23</th></tr>
 <tr><th>CLAUDINEI CACKOWSKI</th><th>CARTA</th><th>27/03/23</th><th>35</th><th>15/04/23</th></tr>
 <tr><th>CLAUDIO DROZDECK</th><th>CARTA</th><th>24/03/23</th><th>16</th><th>12/04/23</th></tr>
@@ -171,7 +168,6 @@
 <tr><th>EDINEI KOVALCZYK</th><th>REGISTRADO</th><th>16/03/23</th><th>B125</th><th>04/04/23</th></tr>
 <tr><th>EDINEI SCHMITZ</th><th>CARTA</th><th>22/03/23</th><th>24</th><th>10/04/23</th></tr>
 <tr><th>EDINEI WAISCZYK</th><th>CARTA</th><th>24/03/23</th><th>72</th><th>12/04/23</th></tr>
-<tr><th>EDUARDA MAZZINI MOREIRA PAZ</th><th>ENCOMENDA</th><th>22/03/23</th><th>X3</th><th>28/03/23</th></tr>
 <tr><th>EDUARDO AUGUSTO MALLON</th><th>CARTA</th><th>15/03/23</th><th>3</th><th>03/04/23</th></tr>
 <tr><th>EDUARDO CUSTODIO KOHUT</th><th>CARTA</th><th>16/03/23</th><th>37</th><th>04/04/23</th></tr>
 <tr><th>EE COMERCIO VAREJISTA</th><th>CARTA</th><th>15/03/23</th><th>5</th><th>03/04/23</th></tr>
@@ -259,7 +255,6 @@
 <tr><th>GISLAINE LIZ DIAS</th><th>CARTA</th><th>22/03/23</th><th>2</th><th>10/04/23</th></tr>
 <tr><th>GUILHERME ANTONIO EISING</th><th>CARTA</th><th>15/03/23</th><th>66</th><th>03/04/23</th></tr>
 <tr><th>GUSTAVO CESAR MAZZO</th><th>REGISTRADO</th><th>29/03/23</th><th>B97</th><th>17/04/23</th></tr>
-<tr><th>GUSTAVO DE ALMEIDA LIMA</th><th>ENCOMENDA</th><th>29/03/23</th><th>H9</th><th>04/04/23</th></tr>
 <tr><th>GUSTAVO HENRIQUE DACYCHEN</th><th>CARTA</th><th>14/03/23</th><th>12</th><th>02/04/23</th></tr>
 <tr><th>HAGUIAR KLOCH</th><th>CARTA</th><th>22/03/23</th><th>50</th><th>10/04/23</th></tr>
 <tr><th>HARI STEINOCHAK</th><th>CARTA</th><th>16/03/23</th><th>34</th><th>04/04/23</th></tr>
@@ -352,7 +347,6 @@
 <tr><th>KAMYLLA APARECIDA PFLEGER</th><th>ENCOMENDA</th><th>29/03/23</th><th>J8</th><th>04/04/23</th></tr>
 <tr><th>KAMYLLA PFLEGER</th><th>ENCOMENDA</th><th>29/03/23</th><th>E6</th><th>04/04/23</th></tr>
 <tr><th>KARINA KERECZ</th><th>CARTA</th><th>27/03/23</th><th>1</th><th>15/04/23</th></tr>
-<tr><th>KARINE REICHARDT</th><th>ENCOMENDA</th><th>29/03/23</th><th>L17</th><th>04/04/23</th></tr>
 <tr><th>KAUANNA DE LIMA DO NASCIMENTO</th><th>REGISTRADO</th><th>23/03/23</th><th>B20</th><th>11/04/23</th></tr>
 <tr><th>LARA KOVALSKI</th><th>ENCOMENDA</th><th>24/03/23</th><th>I4</th><th>30/03/23</th></tr>
 <tr><th>LAURA SAVY HEYSE</th><th>ENCOMENDA</th><th>29/03/23</th><th>J6</th><th>04/04/23</th></tr>
@@ -366,7 +360,6 @@
 <tr><th>LETICIA KOVALCZYKOVSKI STOPA</th><th>CARTA</th><th>27/03/23</th><th>29</th><th>15/04/23</th></tr>
 <tr><th>LIDIA PAULAKI</th><th>CARTA</th><th>27/03/23</th><th>75</th><th>15/04/23</th></tr>
 <tr><th>LIDIO RUDNIK</th><th>REGISTRADO</th><th>23/03/23</th><th>B16</th><th>11/04/23</th></tr>
-<tr><th>LILIANE CAETANO BEJGER</th><th>ENCOMENDA</th><th>22/03/23</th><th>L6</th><th>28/03/23</th></tr>
 <tr><th>LINDOMAR JOSE ANACLETO COSTA</th><th>CARTA</th><th>24/03/23</th><th>50</th><th>12/04/23</th></tr>
 <tr><th>LINDOMAR JOSE ANACLETO COSTA</th><th>CARTA</th><th>24/03/23</th><th>60</th><th>12/04/23</th></tr>
 <tr><th>LINOR MARCELINO FERNANDES</th><th>CARTA</th><th>27/03/23</th><th>80</th><th>15/04/23</th></tr>
@@ -386,7 +379,6 @@
 <tr><th>LUCIMARCIA BEJGER</th><th>CARTA</th><th>24/03/23</th><th>5</th><th>12/04/23</th></tr>
 <tr><th>LUIZ CARLOS POCKSZEVNICKI</th><th>CARTA</th><th>15/03/23</th><th>22</th><th>03/04/23</th></tr>
 <tr><th>LUIZ FERNANDES</th><th>CARTA</th><th>17/03/23</th><th>1</th><th>05/04/23</th></tr>
-<tr><th>LUIZ FERNANDO PEREIRA</th><th>ENCOMENDA</th><th>22/03/23</th><th>C1</th><th>28/03/23</th></tr>
 <tr><th>LUIZ JORGE ALVES CARNEIRO</th><th>CARTA</th><th>24/03/23</th><th>58</th><th>12/04/23</th></tr>
 <tr><th>LURIVAL RODRIGUES DE MARAFIGO</th><th>CARTA</th><th>17/03/23</th><th>31</th><th>05/04/23</th></tr>
 <tr><th>LUZIA BILESKI CHAVES</th><th>CARTA</th><th>22/03/23</th><th>67</th><th>10/04/23</th></tr>
@@ -465,7 +457,6 @@
 <tr><th>OSMAR WALDRICH</th><th>REGISTRADO</th><th>16/03/23</th><th>B157</th><th>04/04/23</th></tr>
 <tr><th>OSNI SIQUEIRA</th><th>REGISTRADO</th><th>29/03/23</th><th>B38</th><th>17/04/23</th></tr>
 <tr><th>OSVALDO ALVES DE MIRANDA</th><th>CARTA</th><th>27/03/23</th><th>39</th><th>15/04/23</th></tr>
-<tr><th>PANIFICADORA MASSAS E SABORES</th><th>ENCOMENDA</th><th>22/03/23</th><th>H4</th><th>28/03/23</th></tr>
 <tr><th>PANIFICADORA PAO DO DIA</th><th>CARTA</th><th>17/03/23</th><th>30</th><th>05/04/23</th></tr>
 <tr><th>PATRIAI SABRINA ROZA</th><th>CARTA</th><th>24/03/23</th><th>74</th><th>12/04/23</th></tr>
 <tr><th>PATRICIA BELLI</th><th>CARTA</th><th>15/03/23</th><th>11</th><th>03/04/23</th></tr>
@@ -544,7 +535,6 @@
 <tr><th>SIMONE BOSSI</th><th>CARTA</th><th>24/03/23</th><th>20</th><th>12/04/23</th></tr>
 <tr><th>SIMONE FERREIRA</th><th>ENCOMENDA</th><th>17/03/23</th><th>L7</th><th>23/03/23</th></tr>
 <tr><th>SIMONI FRANZOI DILL</th><th>CARTA</th><th>24/03/23</th><th>56</th><th>12/04/23</th></tr>
-<tr><th>SIMONI RIBEIRO</th><th>ENCOMENDA</th><th>22/03/23</th><th>K3</th><th>28/03/23</th></tr>
 <tr><th>SOFIA STEIDEL SAVICKI</th><th>CARTA</th><th>27/03/23</th><th>76</th><th>15/04/23</th></tr>
 <tr><th>SOLLIANE STOPA</th><th>CARTA</th><th>17/03/23</th><th>12</th><th>05/04/23</th></tr>
 <tr><th>SONIA BEATRIZ MELO URBANEK</th><th>CARTA</th><th>24/03/23</th><th>97</th><th>12/04/23</th></tr>
@@ -553,12 +543,7 @@
 <tr><th>SUPERMERCADO MAVEGAL</th><th>REGISTRADO</th><th>29/03/23</th><th>B21</th><th>17/04/23</th></tr>
 <tr><th>TAIS INACIO</th><th>REGISTRADO</th><th>28/03/23</th><th>B62</th><th>16/04/23</th></tr>
 <tr><th>TANAEL OSINSKI</th><th>ENCOMENDA</th><th>29/03/23</th><th>L19</th><th>04/04/23</th></tr>
-<tr><th>TARCISIO NUNES JUNIOR</th><th>CARTA</th><th>29/03/23</th><th>20</th><th>17/04/23</th></tr>
-<tr><th>TARCISIO NUNES JUNIOR</th><th>ENCOMENDA</th><th>29/03/23</th><th>A1</th><th>04/04/23</th></tr>
-<tr><th>TARCISIO NUNES JUNIOR</th><th>ENCOMENDA</th><th>29/03/23</th><th>F2</th><th>04/04/23</th></tr>
-<tr><th>TARCISIO NUNES JUNIOR</th><th>ENCOMENDA</th><th>29/03/23</th><th>H6</th><th>04/04/23</th></tr>
 <tr><th>TARCISIO SOIBERT</th><th>CARTA</th><th>29/03/23</th><th>8</th><th>17/04/23</th></tr>
-<tr><th>TATIANA ALVES WOLLINGER</th><th>ENCOMENDA</th><th>29/03/23</th><th>E3</th><th>04/04/23</th></tr>
 <tr><th>TEREZA JUBANSKI ZECZKOSKI</th><th>CARTA</th><th>24/03/23</th><th>4</th><th>12/04/23</th></tr>
 <tr><th>TEREZINHA COELHO ANDERSEN</th><th>CARTA</th><th>29/03/23</th><th>39</th><th>17/04/23</th></tr>
 <tr><th>TEREZINHA NELLY PENKAL KLOCH</th><th>CARTA</th><th>24/03/23</th><th>39</th><th>12/04/23</th></tr>
