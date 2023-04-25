@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 24/4/2023 ÀS 16:18 HORAS.
+## DADOS ATUALIZADOS EM: 25/4/2023 ÀS 8:12 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -37,7 +37,6 @@
 <tr><th>ALINE REGINA KUCHLER</th><th>CARTA</th><th>18/04/23</th><th>44</th><th>07/05/23</th></tr>
 <tr><th>ALINE REGINA KUCHLER</th><th>CARTA</th><th>06/04/23</th><th>48</th><th>25/04/23</th></tr>
 <tr><th>ALINE REGINA KUCHLER</th><th>CARTA</th><th>20/04/23</th><th>55</th><th>09/05/23</th></tr>
-<tr><th>ALINE REGINA KUCHLER</th><th>ENCOMENDA</th><th>17/04/23</th><th>M14</th><th>23/04/23</th></tr>
 <tr><th>ALINE REGINA KUCHLER</th><th>ENCOMENDA</th><th>24/04/23</th><th>M18</th><th>30/04/23</th></tr>
 <tr><th>ALISON KALATAY</th><th>ENCOMENDA</th><th>24/04/23</th><th>A5</th><th>30/04/23</th></tr>
 <tr><th>ALTAMIR OKOPNIK</th><th>CARTA</th><th>11/04/23</th><th>46</th><th>30/04/23</th></tr>
@@ -82,14 +81,13 @@
 <tr><th>CAROLINA DE OLIVEIRA</th><th>REGISTRADO</th><th>18/04/23</th><th>B29</th><th>07/05/23</th></tr>
 <tr><th>CASA AGROTOP</th><th>CARTA</th><th>06/04/23</th><th>40</th><th>25/04/23</th></tr>
 <tr><th>CASTELLANI INDUSTRIA E COMERCIO</th><th>CARTA</th><th>06/04/23</th><th>33</th><th>25/04/23</th></tr>
-<tr><th>CATIANE CADENA</th><th>ENCOMENDA</th><th>17/04/23</th><th>I11</th><th>23/04/23</th></tr>
 <tr><th>CEBILA PAVOSKI CEOLIN</th><th>CARTA</th><th>17/04/23</th><th>34</th><th>06/05/23</th></tr>
 <tr><th>CEBILA PAVOSKI CEOLIN</th><th>CARTA</th><th>17/04/23</th><th>51</th><th>06/05/23</th></tr>
 <tr><th>CECILIA KOHUT RUDNIK</th><th>CARTA</th><th>20/04/23</th><th>23</th><th>09/05/23</th></tr>
 <tr><th>CELIO DROZDEK</th><th>CARTA</th><th>17/04/23</th><th>46</th><th>06/05/23</th></tr>
 <tr><th>CELIO DROZDEK</th><th>REGISTRADO</th><th>17/04/23</th><th>B66</th><th>06/05/23</th></tr>
-<tr><th>CELIO KRUCZKIEWICZ</th><th>CARTA</th><th>11/04/23</th><th>13</th><th>30/04/23</th></tr>
 <tr><th>CELIO KRUCZKIEWICZ</th><th>CARTA</th><th>06/04/23</th><th>13</th><th>25/04/23</th></tr>
+<tr><th>CELIO KRUCZKIEWICZ</th><th>CARTA</th><th>11/04/23</th><th>13</th><th>30/04/23</th></tr>
 <tr><th>CELIO KRUCZKIEWICZ</th><th>REGISTRADO</th><th>06/04/23</th><th>B31</th><th>25/04/23</th></tr>
 <tr><th>CELIO KRUCZKIEWICZ</th><th>REGISTRADO</th><th>10/04/23</th><th>B116</th><th>29/04/23</th></tr>
 <tr><th>CELIO URBANEK</th><th>CARTA</th><th>17/04/23</th><th>44</th><th>06/05/23</th></tr>
@@ -322,7 +320,6 @@
 <tr><th>MARIA DE LOURDES ANTUNES DE MORAES</th><th>CARTA</th><th>11/04/23</th><th>10</th><th>30/04/23</th></tr>
 <tr><th>MARIA DE PAULA KALINOWISKI</th><th>REGISTRADO</th><th>10/04/23</th><th>B121</th><th>29/04/23</th></tr>
 <tr><th>MARIA ELISABETE RADZINSKI</th><th>CARTA</th><th>06/04/23</th><th>1</th><th>25/04/23</th></tr>
-<tr><th>MARIA FERNANDA SAVI HEYSE</th><th>ENCOMENDA</th><th>17/04/23</th><th>M4</th><th>23/04/23</th></tr>
 <tr><th>MARIA HELENA SCHAICOSKI</th><th>CARTA</th><th>17/04/23</th><th>48</th><th>06/05/23</th></tr>
 <tr><th>MARIA ZELI COSTA</th><th>REGISTRADO</th><th>17/04/23</th><th>B46</th><th>06/05/23</th></tr>
 <tr><th>MARINEUSA MARCIANO PAVLAK</th><th>CARTA</th><th>06/04/23</th><th>3</th><th>25/04/23</th></tr>
@@ -369,7 +366,6 @@
 <tr><th>PAMELA SIKORA</th><th>ENCOMENDA</th><th>24/04/23</th><th>J8</th><th>30/04/23</th></tr>
 <tr><th>PAMELA SIKORA</th><th>ENCOMENDA</th><th>19/04/23</th><th>N4</th><th>25/04/23</th></tr>
 <tr><th>PATRICIA APARECIDA DUBIELA</th><th>CARTA</th><th>13/04/23</th><th>33</th><th>02/05/23</th></tr>
-<tr><th>PATRICIA APARECIDA DUBIELA</th><th>ENCOMENDA</th><th>17/04/23</th><th>K14</th><th>23/04/23</th></tr>
 <tr><th>PATRICIA BELLI</th><th>CARTA</th><th>13/04/23</th><th>1</th><th>02/05/23</th></tr>
 <tr><th>PATRICIA DOS SANTOS</th><th>CARTA</th><th>13/04/23</th><th>31</th><th>02/05/23</th></tr>
 <tr><th>PATRICIA ELISA ADAM</th><th>CARTA</th><th>06/04/23</th><th>73</th><th>25/04/23</th></tr>
@@ -406,7 +402,6 @@
 <tr><th>ROMARIO CESAR DOS SANTOS</th><th>CARTA</th><th>11/04/23</th><th>52</th><th>30/04/23</th></tr>
 <tr><th>ROMELIA KERSCHER SAVITSKI</th><th>CARTA</th><th>17/04/23</th><th>45</th><th>06/05/23</th></tr>
 <tr><th>ROSALIA MARTINS</th><th>CARTA</th><th>11/04/23</th><th>19</th><th>30/04/23</th></tr>
-<tr><th>ROSELENE MELO</th><th>ENCOMENDA</th><th>17/04/23</th><th>M17</th><th>23/04/23</th></tr>
 <tr><th>ROSELI BALAK DROZDEK</th><th>CARTA</th><th>11/04/23</th><th>31</th><th>30/04/23</th></tr>
 <tr><th>ROSENILDA CHIMINSKI</th><th>REGISTRADO</th><th>06/04/23</th><th>B106</th><th>25/04/23</th></tr>
 <tr><th>ROSILENE PINHEIRO NIEPSUI</th><th>CARTA</th><th>18/04/23</th><th>3</th><th>07/05/23</th></tr>
