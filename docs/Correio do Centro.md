@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 26/4/2023 ÀS 16:38 HORAS.
+## DADOS ATUALIZADOS EM: 27/4/2023 ÀS 8:04 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -156,7 +156,6 @@
 <tr><th>ELIZANDRO WAISCZYK</th><th>ENCOMENDA</th><th>26/04/23</th><th>M2</th><th>02/05/23</th></tr>
 <tr><th>ELIZETE POLESA</th><th>CARTA</th><th>20/04/23</th><th>12</th><th>09/05/23</th></tr>
 <tr><th>ELIZEU DE LIMA</th><th>CARTA</th><th>26/04/23</th><th>10</th><th>15/05/23</th></tr>
-<tr><th>ELLEN GABRIELE SAVITZKY</th><th>ENCOMENDA</th><th>19/04/23</th><th>K11</th><th>25/04/23</th></tr>
 <tr><th>ELVIRA BOEING DELA JUSTINA</th><th>CARTA</th><th>13/04/23</th><th>26</th><th>02/05/23</th></tr>
 <tr><th>EMANOELI FELIPE</th><th>ENCOMENDA</th><th>26/04/23</th><th>I11</th><th>02/05/23</th></tr>
 <tr><th>ERIETE KORLASPKE</th><th>ENCOMENDA</th><th>26/04/23</th><th>L4</th><th>02/05/23</th></tr>
