@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 3/5/2023 ÀS 16:27 HORAS.
+## DADOS ATUALIZADOS EM: 4/5/2023 ÀS 7:57 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -366,7 +366,6 @@
 <tr><th>MARISTELA NASCIMENTO</th><th>ENCOMENDA</th><th>03/05/23</th><th>E4</th><th>09/05/23</th></tr>
 <tr><th>MARISTELA NASCIMENTO</th><th>ENCOMENDA</th><th>03/05/23</th><th>K1</th><th>09/05/23</th></tr>
 <tr><th>MARIVANIA MORAIS</th><th>CARTA</th><th>26/04/23</th><th>15</th><th>15/05/23</th></tr>
-<tr><th>MARLI HAVRELHUK</th><th>ENCOMENDA</th><th>26/04/23</th><th>M20</th><th>02/05/23</th></tr>
 <tr><th>MARLI SCHNEIDER TOEBE</th><th>CARTA</th><th>20/04/23</th><th>6</th><th>09/05/23</th></tr>
 <tr><th>MATEUS DZUMAN</th><th>REGISTRADO</th><th>20/04/23</th><th>B98</th><th>09/05/23</th></tr>
 <tr><th>MATEUS MIRETZKI</th><th>REGISTRADO</th><th>02/05/23</th><th>B91</th><th>21/05/23</th></tr>
@@ -467,7 +466,6 @@
 <tr><th>SANDRO ???</th><th>ENCOMENDA</th><th>03/05/23</th><th>A3</th><th>09/05/23</th></tr>
 <tr><th>SANDRO ANTONIO SADLOWSKI</th><th>CARTA</th><th>28/04/23</th><th>16</th><th>17/05/23</th></tr>
 <tr><th>SANTA TEREZINHA VISTORIA</th><th>CARTA</th><th>20/04/23</th><th>35</th><th>09/05/23</th></tr>
-<tr><th>SARA BENCZ</th><th>ENCOMENDA</th><th>26/04/23</th><th>O3</th><th>02/05/23</th></tr>
 <tr><th>SAVERA NAIDEK</th><th>CARTA</th><th>02/05/23</th><th>51</th><th>21/05/23</th></tr>
 <tr><th>SAVIO SADLOWSKI</th><th>REGISTRADO</th><th>20/04/23</th><th>B101</th><th>09/05/23</th></tr>
 <tr><th>SCOOB</th><th>REGISTRADO</th><th>02/05/23</th><th>B4</th><th>21/05/23</th></tr>
@@ -512,7 +510,6 @@
 <tr><th>VALIRIA SCHWAR E CIA</th><th>CARTA</th><th>28/04/23</th><th>28</th><th>17/05/23</th></tr>
 <tr><th>VALIRIA SCHWAR E CIA</th><th>CARTA</th><th>20/04/23</th><th>37</th><th>09/05/23</th></tr>
 <tr><th>VALIRIA SCHWARZ BLONKOWSKI</th><th>CARTA</th><th>27/04/23</th><th>39</th><th>16/05/23</th></tr>
-<tr><th>VALMIR CUSTODIO DOS SANTOS</th><th>ENCOMENDA</th><th>26/04/23</th><th>N3</th><th>02/05/23</th></tr>
 <tr><th>VALRIAI SCHWARZ BLONKOVSKI</th><th>CARTA</th><th>25/04/23</th><th>34</th><th>14/05/23</th></tr>
 <tr><th>VANDERLEI ANTONIO KAFKA</th><th>CARTA</th><th>18/04/23</th><th>24</th><th>07/05/23</th></tr>
 <tr><th>VANDERLEI CAPISTRANO</th><th>CARTA</th><th>20/04/23</th><th>46</th><th>09/05/23</th></tr>
@@ -529,8 +526,8 @@
 <tr><th>VITORHUGO ???</th><th>ENCOMENDA</th><th>03/05/23</th><th>Z3</th><th>09/05/23</th></tr>
 <tr><th>VITORHUGO FERNANDES VITORINO</th><th>CARTA</th><th>02/05/23</th><th>13</th><th>21/05/23</th></tr>
 <tr><th>VOLMIR DE SOUZA</th><th>CARTA</th><th>18/04/23</th><th>9</th><th>07/05/23</th></tr>
-<tr><th>VOLMIR DE SOUZA</th><th>CARTA</th><th>18/04/23</th><th>10</th><th>07/05/23</th></tr>
 <tr><th>VOLMIR DE SOUZA</th><th>CARTA</th><th>25/04/23</th><th>10</th><th>14/05/23</th></tr>
+<tr><th>VOLMIR DE SOUZA</th><th>CARTA</th><th>18/04/23</th><th>10</th><th>07/05/23</th></tr>
 <tr><th>W KOVALCZYKOVSKI</th><th>CARTA</th><th>28/04/23</th><th>79</th><th>17/05/23</th></tr>
 <tr><th>WESLEY CHIMINSKI</th><th>CARTA</th><th>20/04/23</th><th>24</th><th>09/05/23</th></tr>
 <tr><th>WILLIAM ALEIXO DO PRADO</th><th>ENCOMENDA</th><th>03/05/23</th><th>M10</th><th>09/05/23</th></tr>
