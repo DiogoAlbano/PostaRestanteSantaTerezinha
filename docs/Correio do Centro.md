@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 10/5/2023 ÀS 16:25 HORAS.
+## DADOS ATUALIZADOS EM: 11/5/2023 ÀS 8:28 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -100,7 +100,6 @@
 <tr><th>CAMILA MARTINS</th><th>CARTA</th><th>26/04/23</th><th>18</th><th>15/05/23</th></tr>
 <tr><th>CAMILA SCHMIDT</th><th>ENCOMENDA</th><th>10/05/23</th><th>G4</th><th>16/05/23</th></tr>
 <tr><th>CAMILY VITORIA PAVLAK DE SOUZA</th><th>REGISTRADO</th><th>08/05/23</th><th>B40</th><th>27/05/23</th></tr>
-<tr><th>CANCHA DO MARCOS</th><th>ENCOMENDA</th><th>03/05/23</th><th>A4</th><th>09/05/23</th></tr>
 <tr><th>CARINA DA SILVA PORTO</th><th>ENCOMENDA</th><th>08/05/23</th><th>M10</th><th>14/05/23</th></tr>
 <tr><th>CARLOS FERREIRA DA SILVA</th><th>CARTA</th><th>10/05/23</th><th>3</th><th>29/05/23</th></tr>
 <tr><th>CAROLINA FERNANDES DA ROSA</th><th>CARTA</th><th>09/05/23</th><th>34</th><th>28/05/23</th></tr>
@@ -140,7 +139,6 @@
 <tr><th>CRISTIANE RAFAELA MOLLER BORGHESAM</th><th>CARTA</th><th>28/04/23</th><th>47</th><th>17/05/23</th></tr>
 <tr><th>CRISTIANO SILVESTRE BALAK</th><th>REGISTRADO</th><th>02/05/23</th><th>B97</th><th>21/05/23</th></tr>
 <tr><th>DANIEL ACACIO BRANDAO</th><th>CARTA</th><th>09/05/23</th><th>5</th><th>28/05/23</th></tr>
-<tr><th>DANIEL AUGUSTIN</th><th>ENCOMENDA</th><th>02/05/23</th><th>M5</th><th>08/05/23</th></tr>
 <tr><th>DANIEL HANG GORGES</th><th>ENCOMENDA</th><th>10/05/23</th><th>M24</th><th>16/05/23</th></tr>
 <tr><th>DANIELA JOHN GIRARDI</th><th>ENCOMENDA</th><th>10/05/23</th><th>M16</th><th>16/05/23</th></tr>
 <tr><th>DARLAN CEOLIN</th><th>REGISTRADO</th><th>25/04/23</th><th>B11</th><th>14/05/23</th></tr>
@@ -223,7 +221,6 @@
 <tr><th>FRANCOLINO NUNES FERREIRA</th><th>CARTA</th><th>08/05/23</th><th>15</th><th>27/05/23</th></tr>
 <tr><th>GABRIEL ALEXANDRE DERETTI</th><th>REGISTRADO</th><th>08/05/23</th><th>B42</th><th>27/05/23</th></tr>
 <tr><th>GABRIEL BECKER</th><th>ENCOMENDA</th><th>10/05/23</th><th>I17</th><th>16/05/23</th></tr>
-<tr><th>GABRIEL FELIPE</th><th>ENCOMENDA</th><th>03/05/23</th><th>F1</th><th>09/05/23</th></tr>
 <tr><th>GABRIEL FELIPE</th><th>ENCOMENDA</th><th>08/05/23</th><th>I13</th><th>14/05/23</th></tr>
 <tr><th>GABRIEL FELIPE</th><th>ENCOMENDA</th><th>10/05/23</th><th>M23</th><th>16/05/23</th></tr>
 <tr><th>GABRIEL JAROSZEWSKI</th><th>CARTA</th><th>26/04/23</th><th>21</th><th>15/05/23</th></tr>
@@ -252,7 +249,6 @@
 <tr><th>GLICERIO ADAMCZVSKI</th><th>CARTA</th><th>09/05/23</th><th>50</th><th>28/05/23</th></tr>
 <tr><th>GRAZIELA WALDRICH FERNANDES</th><th>CARTA</th><th>10/05/23</th><th>4</th><th>29/05/23</th></tr>
 <tr><th>GUILHERMINA GREI JAROCHESKI</th><th>CARTA</th><th>27/04/23</th><th>27</th><th>16/05/23</th></tr>
-<tr><th>GUSTAVO DE ALMEIDA LIMA</th><th>ENCOMENDA</th><th>03/05/23</th><th>M3</th><th>09/05/23</th></tr>
 <tr><th>GUSTAVO HENRIQUE DACYCHEN</th><th>CARTA</th><th>26/04/23</th><th>7</th><th>15/05/23</th></tr>
 <tr><th>HELIO MAXS</th><th>CARTA</th><th>28/04/23</th><th>52</th><th>17/05/23</th></tr>
 <tr><th>HELIO SZIMSEK</th><th>CARTA</th><th>10/05/23</th><th>38</th><th>29/05/23</th></tr>
@@ -511,8 +507,6 @@
 <tr><th>SAMUEL SADLOWSKI</th><th>CARTA</th><th>09/05/23</th><th>4</th><th>28/05/23</th></tr>
 <tr><th>SANDIANE ALVES</th><th>CARTA</th><th>25/04/23</th><th>26</th><th>14/05/23</th></tr>
 <tr><th>SANDRA MARA BURIGO</th><th>CARTA</th><th>04/05/23</th><th>28</th><th>23/05/23</th></tr>
-<tr><th>SANDRA MARA BURIGO</th><th>ENCOMENDA</th><th>03/05/23</th><th>J6</th><th>09/05/23</th></tr>
-<tr><th>SANDRO ???</th><th>ENCOMENDA</th><th>03/05/23</th><th>A3</th><th>09/05/23</th></tr>
 <tr><th>SANDRO ANTONIO SADLOWSKI</th><th>CARTA</th><th>28/04/23</th><th>16</th><th>17/05/23</th></tr>
 <tr><th>SANRA RIBEIRO DOS SANTOS</th><th>CARTA</th><th>04/05/23</th><th>14</th><th>23/05/23</th></tr>
 <tr><th>SARAUE DE OLIVEIRA MARIN</th><th>REGISTRADO</th><th>08/05/23</th><th>B143</th><th>27/05/23</th></tr>
