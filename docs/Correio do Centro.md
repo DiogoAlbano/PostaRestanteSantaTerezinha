@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 29/5/2023 ÀS 16:09 HORAS.
+## DADOS ATUALIZADOS EM: 30/5/2023 ÀS 8:05 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -37,21 +37,17 @@
 <tr><th>ALEX JUNCKES</th><th>CARTA</th><th>23/05/23</th><th>9</th><th>11/06/23</th></tr>
 <tr><th>ALEXANDRE DE OLIVEIRA</th><th>CARTA</th><th>16/05/23</th><th>8</th><th>04/06/23</th></tr>
 <tr><th>ALEXANDRO HAAG</th><th>CARTA</th><th>24/05/23</th><th>18</th><th>12/06/23</th></tr>
-<tr><th>ALFREDO VENDRAMIN</th><th>CARTA</th><th>10/05/23</th><th>51</th><th>29/05/23</th></tr>
 <tr><th>ALICE RIBEIRO VARELLA</th><th>REGISTRADO</th><th>25/05/23</th><th>B151</th><th>13/06/23</th></tr>
 <tr><th>ALINE AUGUSTIN</th><th>CARTA</th><th>15/05/23</th><th>1</th><th>03/06/23</th></tr>
 <tr><th>ALINE FRAINER</th><th>ENCOMENDA</th><th>29/05/23</th><th>A1</th><th>04/06/23</th></tr>
 <tr><th>ALINE REGINA KUCHLER</th><th>CARTA</th><th>23/05/23</th><th>44</th><th>11/06/23</th></tr>
 <tr><th>ALIRIO PIRES</th><th>CARTA</th><th>29/05/23</th><th>42</th><th>17/06/23</th></tr>
 <tr><th>ALIRIO PIRES</th><th>CARTA</th><th>11/05/23</th><th>32</th><th>30/05/23</th></tr>
-<tr><th>ALISSON RENAN CORDEIRO</th><th>CARTA</th><th>10/05/23</th><th>14</th><th>29/05/23</th></tr>
 <tr><th>ALTAIR CARVALHO DE LIMA</th><th>REGISTRADO</th><th>15/05/23</th><th>B22</th><th>03/06/23</th></tr>
 <tr><th>ALTAIR MARCIANO</th><th>ENCOMENDA</th><th>23/05/23</th><th>F3</th><th>29/05/23</th></tr>
 <tr><th>ALZEMIR ZAQUIEL CARINI</th><th>CARTA</th><th>12/05/23</th><th>13</th><th>31/05/23</th></tr>
 <tr><th>AMADEU LOURENCO ALVES</th><th>CARTA</th><th>29/05/23</th><th>35</th><th>17/06/23</th></tr>
-<tr><th>AMELIE CONFECCOES</th><th>CARTA</th><th>10/05/23</th><th>50</th><th>29/05/23</th></tr>
 <tr><th>AMELIE CONFECCOES</th><th>CARTA</th><th>23/05/23</th><th>14</th><th>11/06/23</th></tr>
-<tr><th>AMELIE CONFECCOES</th><th>CARTA</th><th>10/05/23</th><th>36</th><th>29/05/23</th></tr>
 <tr><th>AMILTON RIBEIRO</th><th>CARTA</th><th>29/05/23</th><th>39</th><th>17/06/23</th></tr>
 <tr><th>ANA MARIA STEINCHAK</th><th>CARTA</th><th>19/05/23</th><th>8</th><th>07/06/23</th></tr>
 <tr><th>ANA PAULA BILCH</th><th>CARTA</th><th>17/05/23</th><th>20</th><th>05/06/23</th></tr>
@@ -61,7 +57,6 @@
 <tr><th>ANDERSON LEUCHAKI</th><th>REGISTRADO</th><th>22/05/23</th><th>B52</th><th>10/06/23</th></tr>
 <tr><th>ANDRE DO NASCIMENTO</th><th>CARTA</th><th>17/05/23</th><th>18</th><th>05/06/23</th></tr>
 <tr><th>ANDRE DO NASCIMENTO</th><th>REGISTRADO</th><th>22/05/23</th><th>B28</th><th>10/06/23</th></tr>
-<tr><th>ANDREI APARECIDEO DANTAS DE OLIVEIRA</th><th>CARTA</th><th>10/05/23</th><th>20</th><th>29/05/23</th></tr>
 <tr><th>ANDREIA CRISTINA BERTOTTI BURDZINSKI</th><th>ENCOMENDA</th><th>26/05/23</th><th>M6</th><th>01/06/23</th></tr>
 <tr><th>ANDREIA CRISTINA BERTOTTI BURDZINSKI</th><th>REGISTRADO</th><th>29/05/23</th><th>B112</th><th>17/06/23</th></tr>
 <tr><th>ANDRIELY BOSSY OKOPNIKI</th><th>ENCOMENDA</th><th>26/05/23</th><th>I2</th><th>01/06/23</th></tr>
@@ -93,7 +88,6 @@
 <tr><th>CLARICE AMARANTE</th><th>REGISTRADO</th><th>16/05/23</th><th>B83</th><th>04/06/23</th></tr>
 <tr><th>CLAUDENIR WALDRICH</th><th>CARTA</th><th>15/05/23</th><th>11</th><th>03/06/23</th></tr>
 <tr><th>CLAUDETE DROSNY RODRIGUES</th><th>REGISTRADO</th><th>15/05/23</th><th>B41</th><th>03/06/23</th></tr>
-<tr><th>CLAUDINEI CACKOWSKI</th><th>CARTA</th><th>10/05/23</th><th>47</th><th>29/05/23</th></tr>
 <tr><th>CLAUDINETE CHIMINSKI</th><th>REGISTRADO</th><th>15/05/23</th><th>B44</th><th>03/06/23</th></tr>
 <tr><th>CLAUDINO DEBARBA</th><th>CARTA</th><th>12/05/23</th><th>27</th><th>31/05/23</th></tr>
 <tr><th>CLAUDIO DROZDECK</th><th>CARTA</th><th>19/05/23</th><th>52</th><th>07/06/23</th></tr>
@@ -102,7 +96,6 @@
 <tr><th>CLEIA APARECIDA SADLOWSKI GOEDERT</th><th>REGISTRADO</th><th>29/05/23</th><th>B140</th><th>17/06/23</th></tr>
 <tr><th>CLEIMARA MARKOSKI</th><th>CARTA</th><th>18/05/23</th><th>12</th><th>06/06/23</th></tr>
 <tr><th>CLEITO RODRIGUES</th><th>CARTA</th><th>17/05/23</th><th>19</th><th>05/06/23</th></tr>
-<tr><th>CLEITON KOHUT</th><th>CARTA</th><th>10/05/23</th><th>43</th><th>29/05/23</th></tr>
 <tr><th>CLEMENTE LOURENCO</th><th>CARTA</th><th>23/05/23</th><th>6</th><th>11/06/23</th></tr>
 <tr><th>CLEMENTE LOURENCO</th><th>CARTA</th><th>23/05/23</th><th>7</th><th>11/06/23</th></tr>
 <tr><th>CLEMENTE PAWLAK</th><th>CARTA</th><th>16/05/23</th><th>11</th><th>04/06/23</th></tr>
@@ -110,7 +103,6 @@
 <tr><th>CLEOMAR FERREIRA DOS SANTOS</th><th>CARTA</th><th>19/05/23</th><th>49</th><th>07/06/23</th></tr>
 <tr><th>CLEOMAR JAROCHESKI</th><th>CARTA</th><th>15/05/23</th><th>22</th><th>03/06/23</th></tr>
 <tr><th>CLEONI FERNANDES</th><th>CARTA</th><th>23/05/23</th><th>28</th><th>11/06/23</th></tr>
-<tr><th>CLETSON VICENTE</th><th>CARTA</th><th>10/05/23</th><th>19</th><th>29/05/23</th></tr>
 <tr><th>CLEYTON JOSE BEIGER</th><th>CARTA</th><th>18/05/23</th><th>14</th><th>06/06/23</th></tr>
 <tr><th>CLEYTON JOSE BEIGER</th><th>CARTA</th><th>29/05/23</th><th>13</th><th>17/06/23</th></tr>
 <tr><th>COMERCIO DE MADEIRAS LONGEN</th><th>REGISTRADO</th><th>11/05/23</th><th>B19</th><th>30/05/23</th></tr>
@@ -124,7 +116,6 @@
 <tr><th>CRISTIANO BIANCATE</th><th>REGISTRADO</th><th>15/05/23</th><th>B59</th><th>03/06/23</th></tr>
 <tr><th>CRISTIANO SILVESTRE BALAK</th><th>REGISTRADO</th><th>18/05/23</th><th>B80</th><th>06/06/23</th></tr>
 <tr><th>DAIANA C SOUZA</th><th>CARTA</th><th>23/05/23</th><th>27</th><th>11/06/23</th></tr>
-<tr><th>DALETE ARMANI BOZAN</th><th>ENCOMENDA</th><th>22/05/23</th><th>A3</th><th>28/05/23</th></tr>
 <tr><th>DANIEL ACACIO BRANDAO</th><th>CARTA</th><th>18/05/23</th><th>4</th><th>06/06/23</th></tr>
 <tr><th>DANIEL DE LIMA</th><th>CARTA</th><th>29/05/23</th><th>8</th><th>17/06/23</th></tr>
 <tr><th>DANIEL DE LIMA</th><th>CARTA</th><th>17/05/23</th><th>10</th><th>05/06/23</th></tr>
@@ -145,12 +136,9 @@
 <tr><th>DIANELO BRANDAO</th><th>CARTA</th><th>19/05/23</th><th>3</th><th>07/06/23</th></tr>
 <tr><th>DILVO JOSE TICZ</th><th>ENCOMENDA</th><th>29/05/23</th><th>I10</th><th>04/06/23</th></tr>
 <tr><th>DIONI MELO</th><th>CARTA</th><th>19/05/23</th><th>21</th><th>07/06/23</th></tr>
-<tr><th>DIONI MELO</th><th>CARTA</th><th>10/05/23</th><th>18</th><th>29/05/23</th></tr>
-<tr><th>DIONISIO ZANOVELLO</th><th>CARTA</th><th>10/05/23</th><th>1</th><th>29/05/23</th></tr>
 <tr><th>DIRCEU DE LIMA</th><th>REGISTRADO</th><th>22/05/23</th><th>B68</th><th>10/06/23</th></tr>
 <tr><th>DIRCEU DE LIMA</th><th>CARTA</th><th>12/05/23</th><th>4</th><th>31/05/23</th></tr>
 <tr><th>DOUGLAS BARABACH</th><th>REGISTRADO</th><th>25/05/23</th><th>B172</th><th>13/06/23</th></tr>
-<tr><th>DOUGLAS PINHEIRO</th><th>CARTA</th><th>10/05/23</th><th>21</th><th>29/05/23</th></tr>
 <tr><th>EDICO WILIAN KALESKI</th><th>CARTA</th><th>24/05/23</th><th>12</th><th>12/06/23</th></tr>
 <tr><th>EDINALVA SCHWARTZ</th><th>CARTA</th><th>18/05/23</th><th>5</th><th>06/06/23</th></tr>
 <tr><th>EDSON A OKOPNIK</th><th>REGISTRADO</th><th>22/05/23</th><th>B132</th><th>10/06/23</th></tr>
@@ -160,7 +148,6 @@
 <tr><th>ELADIO JURASZEK</th><th>CARTA</th><th>23/05/23</th><th>24</th><th>11/06/23</th></tr>
 <tr><th>ELADIO JURASZEK</th><th>CARTA</th><th>23/05/23</th><th>15</th><th>11/06/23</th></tr>
 <tr><th>ELADIO JURASZEK</th><th>REGISTRADO</th><th>29/05/23</th><th>B108</th><th>17/06/23</th></tr>
-<tr><th>ELADIO JURASZEK</th><th>CARTA</th><th>10/05/23</th><th>57</th><th>29/05/23</th></tr>
 <tr><th>ELAINE APARECIDA IAROCHENSKI</th><th>CARTA</th><th>24/05/23</th><th>22</th><th>12/06/23</th></tr>
 <tr><th>ELCILENE LONGEN SALDOVISKI</th><th>CARTA</th><th>23/05/23</th><th>42</th><th>11/06/23</th></tr>
 <tr><th>ELENISE N KRUCZKIEWICZ</th><th>REGISTRADO</th><th>25/05/23</th><th>B150</th><th>13/06/23</th></tr>
@@ -172,7 +159,6 @@
 <tr><th>ELI DE LIMA</th><th>CARTA</th><th>29/05/23</th><th>17</th><th>17/06/23</th></tr>
 <tr><th>ELIANE CARVALHO</th><th>CARTA</th><th>29/05/23</th><th>24</th><th>17/06/23</th></tr>
 <tr><th>ELIANE CARVALHO</th><th>REGISTRADO</th><th>18/05/23</th><th>B114</th><th>06/06/23</th></tr>
-<tr><th>ELISANDRO KRUCZKIEWICZ</th><th>CARTA</th><th>10/05/23</th><th>27</th><th>29/05/23</th></tr>
 <tr><th>ELISANGELA POLEZA KNOPP</th><th>ENCOMENDA</th><th>26/05/23</th><th>K9</th><th>01/06/23</th></tr>
 <tr><th>ELITON STOPA</th><th>CARTA</th><th>16/05/23</th><th>23</th><th>04/06/23</th></tr>
 <tr><th>ELIZANDRO PINTURAS</th><th>CARTA</th><th>23/05/23</th><th>13</th><th>11/06/23</th></tr>
@@ -218,7 +204,6 @@
 <tr><th>FRANCIELI TATIANI VIEIRA SPINDULA</th><th>CARTA</th><th>23/05/23</th><th>45</th><th>11/06/23</th></tr>
 <tr><th>FRANCIELI WENGRENOVSKI</th><th>ENCOMENDA</th><th>29/05/23</th><th>M13</th><th>04/06/23</th></tr>
 <tr><th>FRANCISCA RIBEIRO MARTINS</th><th>CARTA</th><th>12/05/23</th><th>5</th><th>31/05/23</th></tr>
-<tr><th>GABRIEL KOZORIZ</th><th>CARTA</th><th>10/05/23</th><th>28</th><th>29/05/23</th></tr>
 <tr><th>GABRIEL SIEMINSKI</th><th>REGISTRADO</th><th>25/05/23</th><th>B14</th><th>13/06/23</th></tr>
 <tr><th>GABRIEL SIEMINSKI</th><th>REGISTRADO</th><th>25/05/23</th><th>B74</th><th>13/06/23</th></tr>
 <tr><th>GENESIO RUDNIK</th><th>CARTA</th><th>29/05/23</th><th>44</th><th>17/06/23</th></tr>
@@ -226,7 +211,6 @@
 <tr><th>GILBERTO STOPA</th><th>CARTA</th><th>23/05/23</th><th>20</th><th>11/06/23</th></tr>
 <tr><th>GILMAR PESZYBUA</th><th>CARTA</th><th>12/05/23</th><th>6</th><th>31/05/23</th></tr>
 <tr><th>GILSON ELICKER</th><th>ENCOMENDA</th><th>29/05/23</th><th>K3</th><th>04/06/23</th></tr>
-<tr><th>GILSON FRANCA</th><th>CARTA</th><th>10/05/23</th><th>15</th><th>29/05/23</th></tr>
 <tr><th>GIOVANI RATUCHENSKI</th><th>REGISTRADO</th><th>22/05/23</th><th>B5</th><th>10/06/23</th></tr>
 <tr><th>GISELE SCHMIDT WERNER</th><th>ENCOMENDA</th><th>26/05/23</th><th>M11</th><th>01/06/23</th></tr>
 <tr><th>GISLAINE A DE ANDRAD</th><th>CARTA</th><th>18/05/23</th><th>17</th><th>06/06/23</th></tr>
@@ -239,7 +223,6 @@
 <tr><th>HELENA GELSLEICHTER</th><th>REGISTRADO</th><th>29/05/23</th><th>B125</th><th>17/06/23</th></tr>
 <tr><th>HELENA GELSLEICHTER</th><th>REGISTRADO</th><th>25/05/23</th><th>B157</th><th>13/06/23</th></tr>
 <tr><th>HELIO KARPEN</th><th>CARTA</th><th>15/05/23</th><th>15</th><th>03/06/23</th></tr>
-<tr><th>HELIO SZIMSEK</th><th>CARTA</th><th>10/05/23</th><th>38</th><th>29/05/23</th></tr>
 <tr><th>HILARIO SAVICKI</th><th>REGISTRADO</th><th>15/05/23</th><th>B65</th><th>03/06/23</th></tr>
 <tr><th>HILBERTO ESSER</th><th>CARTA</th><th>19/05/23</th><th>11</th><th>07/06/23</th></tr>
 <tr><th>HILDA DE MELO CUSTODIO DOS SANTOS</th><th>REGISTRADO</th><th>25/05/23</th><th>B155</th><th>13/06/23</th></tr>
@@ -275,7 +258,6 @@
 <tr><th>JHONATAN MONTIBELLER</th><th>CARTA</th><th>16/05/23</th><th>32</th><th>04/06/23</th></tr>
 <tr><th>JICELIO SEMIANO</th><th>ENCOMENDA</th><th>29/05/23</th><th>O3</th><th>04/06/23</th></tr>
 <tr><th>JNV TRANSPORTES</th><th>CARTA</th><th>16/05/23</th><th>22</th><th>04/06/23</th></tr>
-<tr><th>JOAO ANDERSEN</th><th>CARTA</th><th>10/05/23</th><th>54</th><th>29/05/23</th></tr>
 <tr><th>JOAO BATISTA DO AMARAL</th><th>CARTA</th><th>19/05/23</th><th>37</th><th>07/06/23</th></tr>
 <tr><th>JOAO BATISTA FERNANDES</th><th>CARTA</th><th>24/05/23</th><th>9</th><th>12/06/23</th></tr>
 <tr><th>JOAO CARLOS BALAN</th><th>CARTA</th><th>29/05/23</th><th>49</th><th>17/06/23</th></tr>
@@ -293,7 +275,6 @@
 <tr><th>JOE ROBSON KRAMEL</th><th>ENCOMENDA</th><th>26/05/23</th><th>A12</th><th>01/06/23</th></tr>
 <tr><th>JOEL NICKEFORUK</th><th>CARTA</th><th>11/05/23</th><th>10</th><th>30/05/23</th></tr>
 <tr><th>JONAS CASAGRANDE</th><th>CARTA</th><th>15/05/23</th><th>19</th><th>03/06/23</th></tr>
-<tr><th>JONAS KARACZ</th><th>CARTA</th><th>10/05/23</th><th>2</th><th>29/05/23</th></tr>
 <tr><th>JONAS KRUCZKIEWICZ</th><th>ENCOMENDA</th><th>24/05/23</th><th>I1</th><th>30/05/23</th></tr>
 <tr><th>JONATAN JUNIOR NANIA BLASIUS</th><th>CARTA</th><th>24/05/23</th><th>5</th><th>12/06/23</th></tr>
 <tr><th>JONATAN JUNIOR NANIA BLASIUS</th><th>CARTA</th><th>19/05/23</th><th>44</th><th>07/06/23</th></tr>
@@ -304,7 +285,6 @@
 <tr><th>JOSEFA WINIARSKI</th><th>REGISTRADO</th><th>15/05/23</th><th>B66</th><th>03/06/23</th></tr>
 <tr><th>JOSIAS CARVALHO</th><th>CARTA</th><th>16/05/23</th><th>12</th><th>04/06/23</th></tr>
 <tr><th>JOSINEI STOPA</th><th>REGISTRADO</th><th>25/05/23</th><th>B129</th><th>13/06/23</th></tr>
-<tr><th>JOSUEL DE LIMA MACHADO</th><th>CARTA</th><th>10/05/23</th><th>59</th><th>29/05/23</th></tr>
 <tr><th>JOSUEL DE LIMA MACHADO</th><th>CARTA</th><th>29/05/23</th><th>45</th><th>17/06/23</th></tr>
 <tr><th>JOSUEL DE LIMA MACHADO</th><th>CARTA</th><th>15/05/23</th><th>8</th><th>03/06/23</th></tr>
 <tr><th>JOVITA S WOLLINGER</th><th>CARTA</th><th>17/05/23</th><th>3</th><th>05/06/23</th></tr>
@@ -319,7 +299,6 @@
 <tr><th>JULIO CESAR LONGEN</th><th>CARTA</th><th>11/05/23</th><th>5</th><th>30/05/23</th></tr>
 <tr><th>JURACIR FERNANDES</th><th>CARTA</th><th>29/05/23</th><th>33</th><th>17/06/23</th></tr>
 <tr><th>JUSARA DE LIMA</th><th>CARTA</th><th>19/05/23</th><th>47</th><th>07/06/23</th></tr>
-<tr><th>KARINA KERECZ</th><th>CARTA</th><th>10/05/23</th><th>48</th><th>29/05/23</th></tr>
 <tr><th>LANCHONETE E RESTAURANTE SANTA TEREZINHA</th><th>REGISTRADO</th><th>29/05/23</th><th>B109</th><th>17/06/23</th></tr>
 <tr><th>LARISSA TAINA OZELAME</th><th>ENCOMENDA</th><th>29/05/23</th><th>N6</th><th>04/06/23</th></tr>
 <tr><th>LEANDRO KOHUT</th><th>REGISTRADO</th><th>22/05/23</th><th>B37</th><th>10/06/23</th></tr>
@@ -334,7 +313,6 @@
 <tr><th>LEONILDA MARIA DE SOUZA</th><th>CARTA</th><th>23/05/23</th><th>23</th><th>11/06/23</th></tr>
 <tr><th>LEONIR J RODRIGUES</th><th>REGISTRADO</th><th>25/05/23</th><th>B133</th><th>13/06/23</th></tr>
 <tr><th>LEONIR JOSE RODRIGUES</th><th>REGISTRADO</th><th>22/05/23</th><th>B4</th><th>10/06/23</th></tr>
-<tr><th>LEONIR JOSE RODRIGUES</th><th>CARTA</th><th>10/05/23</th><th>16</th><th>29/05/23</th></tr>
 <tr><th>LICIA NIEDZVIEDZK MARAFIGO</th><th>CARTA</th><th>12/05/23</th><th>20</th><th>31/05/23</th></tr>
 <tr><th>LIDIA KUCHNIR PEREIRA</th><th>REGISTRADO</th><th>29/05/23</th><th>B122</th><th>17/06/23</th></tr>
 <tr><th>LIDIA MARLI HLENKA</th><th>REGISTRADO</th><th>18/05/23</th><th>B60</th><th>06/06/23</th></tr>
@@ -354,12 +332,10 @@
 <tr><th>LUCIMARA NIEMEIER</th><th>CARTA</th><th>19/05/23</th><th>42</th><th>07/06/23</th></tr>
 <tr><th>LUCIMARCIA BEJGER</th><th>CARTA</th><th>23/05/23</th><th>30</th><th>11/06/23</th></tr>
 <tr><th>LUDOVICO RUDNIK</th><th>CARTA</th><th>19/05/23</th><th>20</th><th>07/06/23</th></tr>
-<tr><th>LUIS GABARDO LEMOS</th><th>CARTA</th><th>10/05/23</th><th>9</th><th>29/05/23</th></tr>
 <tr><th>LUIZ CARLOS BRIDAROLLI</th><th>CARTA</th><th>19/05/23</th><th>12</th><th>07/06/23</th></tr>
 <tr><th>LUIZ CARLOS CARVALHO</th><th>REGISTRADO</th><th>18/05/23</th><th>B48</th><th>06/06/23</th></tr>
 <tr><th>LUZIA BLAZIUS</th><th>CARTA</th><th>11/05/23</th><th>11</th><th>30/05/23</th></tr>
 <tr><th>MAICON CAMPOS</th><th>CARTA</th><th>29/05/23</th><th>18</th><th>17/06/23</th></tr>
-<tr><th>MANO ZANIZ</th><th>CARTA</th><th>10/05/23</th><th>13</th><th>29/05/23</th></tr>
 <tr><th>MARCIA BERTOTTI COLASSO</th><th>CARTA</th><th>29/05/23</th><th>27</th><th>17/06/23</th></tr>
 <tr><th>MARCIA LUCIANA BLONKOVSKI EISING</th><th>CARTA</th><th>18/05/23</th><th>16</th><th>06/06/23</th></tr>
 <tr><th>MARCILIO RITTER</th><th>CARTA</th><th>19/05/23</th><th>25</th><th>07/06/23</th></tr>
@@ -393,7 +369,6 @@
 <tr><th>MARMORARIA POMERANOS</th><th>REGISTRADO</th><th>25/05/23</th><th>B153</th><th>13/06/23</th></tr>
 <tr><th>MARTA DE FREITAS</th><th>CARTA</th><th>11/05/23</th><th>13</th><th>30/05/23</th></tr>
 <tr><th>MATEUS MIRETZKI</th><th>CARTA</th><th>11/05/23</th><th>18</th><th>30/05/23</th></tr>
-<tr><th>MATILDE MAXS</th><th>CARTA</th><th>10/05/23</th><th>45</th><th>29/05/23</th></tr>
 <tr><th>MECANICA SAO JOSE</th><th>CARTA</th><th>24/05/23</th><th>11</th><th>12/06/23</th></tr>
 <tr><th>MIGUEL ANTONIO LOPES</th><th>CARTA</th><th>15/05/23</th><th>10</th><th>03/06/23</th></tr>
 <tr><th>MIGUEL NELSON KATCHAN</th><th>REGISTRADO</th><th>29/05/23</th><th>B105</th><th>17/06/23</th></tr>
@@ -401,7 +376,6 @@
 <tr><th>MIGUELINA SAVITSKI</th><th>CARTA</th><th>24/05/23</th><th>14</th><th>12/06/23</th></tr>
 <tr><th>MILENA POPADIUK</th><th>REGISTRADO</th><th>16/05/23</th><th>B82</th><th>04/06/23</th></tr>
 <tr><th>MILENA POPADIUK</th><th>CARTA</th><th>17/05/23</th><th>22</th><th>05/06/23</th></tr>
-<tr><th>MOACIR KOVALSKI</th><th>CARTA</th><th>10/05/23</th><th>33</th><th>29/05/23</th></tr>
 <tr><th>MORGANA APARECIDA ZALASKO</th><th>CARTA</th><th>29/05/23</th><th>16</th><th>17/06/23</th></tr>
 <tr><th>NATALIA DZUMAN</th><th>CARTA</th><th>16/05/23</th><th>5</th><th>04/06/23</th></tr>
 <tr><th>NATALICIO ROGALESKI</th><th>CARTA</th><th>11/05/23</th><th>38</th><th>30/05/23</th></tr>
@@ -415,7 +389,6 @@
 <tr><th>NEUSA WOLLINGER SCHMACHER</th><th>CARTA</th><th>18/05/23</th><th>20</th><th>06/06/23</th></tr>
 <tr><th>NICOLAS METZGER</th><th>CARTA</th><th>23/05/23</th><th>11</th><th>11/06/23</th></tr>
 <tr><th>NICOLAS METZGER</th><th>REGISTRADO</th><th>15/05/23</th><th>B18</th><th>03/06/23</th></tr>
-<tr><th>NICOLAS METZGER</th><th>CARTA</th><th>10/05/23</th><th>52</th><th>29/05/23</th></tr>
 <tr><th>NILCEIA KALESKI MACEDO</th><th>REGISTRADO</th><th>18/05/23</th><th>B15</th><th>06/06/23</th></tr>
 <tr><th>NIVALDO BARABACH</th><th>REGISTRADO</th><th>11/05/23</th><th>B26</th><th>30/05/23</th></tr>
 <tr><th>NIVALDO RAFAEL KOHUT</th><th>CARTA</th><th>29/05/23</th><th>9</th><th>17/06/23</th></tr>
@@ -424,16 +397,13 @@
 <tr><th>ODETE PALEVODA</th><th>REGISTRADO</th><th>15/05/23</th><th>B69</th><th>03/06/23</th></tr>
 <tr><th>ODETE PALEVODA</th><th>CARTA</th><th>17/05/23</th><th>1</th><th>05/06/23</th></tr>
 <tr><th>OFICINA MECANICA PIJURA</th><th>CARTA</th><th>24/05/23</th><th>16</th><th>12/06/23</th></tr>
-<tr><th>ORIDES ALVES DE LIMA</th><th>CARTA</th><th>10/05/23</th><th>25</th><th>29/05/23</th></tr>
 <tr><th>ORIDES DE SOUZA MONTEIRO</th><th>ENCOMENDA</th><th>26/05/23</th><th>M2</th><th>01/06/23</th></tr>
 <tr><th>ORIDES DE SOUZA MONTEIRO</th><th>ENCOMENDA</th><th>26/05/23</th><th>M3</th><th>01/06/23</th></tr>
 <tr><th>ORIVAL BORGUEZAM</th><th>CARTA</th><th>15/05/23</th><th>18</th><th>03/06/23</th></tr>
 <tr><th>OSMAIR RACOCHINSKI</th><th>REGISTRADO</th><th>15/05/23</th><th>B25</th><th>03/06/23</th></tr>
-<tr><th>OSMAR DEOLINO ADRIANO</th><th>CARTA</th><th>10/05/23</th><th>6</th><th>29/05/23</th></tr>
 <tr><th>OSNI SIQUEIRA</th><th>REGISTRADO</th><th>29/05/23</th><th>B47</th><th>17/06/23</th></tr>
 <tr><th>OSVALDO WALDRICH</th><th>CARTA</th><th>16/05/23</th><th>38</th><th>04/06/23</th></tr>
 <tr><th>OTAVIO GAVRONSKI</th><th>ENCOMENDA</th><th>24/05/23</th><th>M1</th><th>30/05/23</th></tr>
-<tr><th>PAMELA SIKORA</th><th>ENCOMENDA</th><th>22/05/23</th><th>N7</th><th>28/05/23</th></tr>
 <tr><th>PATRCIA APARECIDA DUBIELA</th><th>ENCOMENDA</th><th>24/05/23</th><th>K6</th><th>30/05/23</th></tr>
 <tr><th>PATRICAIA SCHNEIDER</th><th>CARTA</th><th>24/05/23</th><th>3</th><th>12/06/23</th></tr>
 <tr><th>PATRICI GOMES DA SILVA</th><th>CARTA</th><th>19/05/23</th><th>50</th><th>07/06/23</th></tr>
@@ -470,19 +440,15 @@
 <tr><th>ROGERIO SCHMITT</th><th>REGISTRADO</th><th>18/05/23</th><th>B33</th><th>06/06/23</th></tr>
 <tr><th>ROMARIO CESAR DOS SANTOS</th><th>REGISTRADO</th><th>18/05/23</th><th>B10</th><th>06/06/23</th></tr>
 <tr><th>ROSELI BIANCATE PEREIRA</th><th>CARTA</th><th>12/05/23</th><th>22</th><th>31/05/23</th></tr>
-<tr><th>ROSIMERI KOHUT</th><th>CARTA</th><th>10/05/23</th><th>44</th><th>29/05/23</th></tr>
 <tr><th>ROZANGELA GARLINI</th><th>CARTA</th><th>11/05/23</th><th>37</th><th>30/05/23</th></tr>
 <tr><th>ROZANGELA GARLINI</th><th>CARTA</th><th>17/05/23</th><th>16</th><th>05/06/23</th></tr>
 <tr><th>ROZANGELA GARLINI</th><th>CARTA</th><th>24/05/23</th><th>20</th><th>12/06/23</th></tr>
 <tr><th>ROZELI BOSSY</th><th>ENCOMENDA</th><th>29/05/23</th><th>G9</th><th>04/06/23</th></tr>
-<tr><th>RUDIMAR GONCALVES DA SILVA</th><th>CARTA</th><th>10/05/23</th><th>11</th><th>29/05/23</th></tr>
 <tr><th>RUDNIK C V E</th><th>CARTA</th><th>11/05/23</th><th>16</th><th>30/05/23</th></tr>
 <tr><th>RUDNIK SOLUCOES</th><th>REGISTRADO</th><th>25/05/23</th><th>B131</th><th>13/06/23</th></tr>
 <tr><th>RYAN LEANDRO GOTERRA</th><th>REGISTRADO</th><th>25/05/23</th><th>B163</th><th>13/06/23</th></tr>
-<tr><th>RYAN LEANDRO GOTERRA</th><th>CARTA</th><th>10/05/23</th><th>39</th><th>29/05/23</th></tr>
 <tr><th>SAIANARA JIANI CAETANO BEJGER</th><th>CARTA</th><th>24/05/23</th><th>7</th><th>12/06/23</th></tr>
 <tr><th>SAINARA JIANI CAETANO BEJGER</th><th>CARTA</th><th>15/05/23</th><th>21</th><th>03/06/23</th></tr>
-<tr><th>SALEZIO KORLAPSKE</th><th>CARTA</th><th>10/05/23</th><th>58</th><th>29/05/23</th></tr>
 <tr><th>SAMARA CADENA MARTINS</th><th>ENCOMENDA</th><th>29/05/23</th><th>N2</th><th>04/06/23</th></tr>
 <tr><th>SAMARA CADENA MARTINS</th><th>ENCOMENDA</th><th>29/05/23</th><th>G2</th><th>04/06/23</th></tr>
 <tr><th>SAMUEL CIDRAL</th><th>CARTA</th><th>19/05/23</th><th>53</th><th>07/06/23</th></tr>
@@ -504,11 +470,8 @@
 <tr><th>SERIO LUIZ NIESWALD</th><th>CARTA</th><th>11/05/23</th><th>33</th><th>30/05/23</th></tr>
 <tr><th>SHIRLEY WORM MARQUES</th><th>ENCOMENDA</th><th>29/05/23</th><th>M12</th><th>04/06/23</th></tr>
 <tr><th>SICOOB</th><th>CARTA</th><th>19/05/23</th><th>61</th><th>07/06/23</th></tr>
-<tr><th>SICOOB</th><th>CARTA</th><th>10/05/23</th><th>12</th><th>29/05/23</th></tr>
 <tr><th>SICOOB</th><th>ENCOMENDA</th><th>24/05/23</th><th>D3</th><th>30/05/23</th></tr>
-<tr><th>SIDNEI MUNCZESKI</th><th>CARTA</th><th>10/05/23</th><th>23</th><th>29/05/23</th></tr>
 <tr><th>SILVERO VITORINO</th><th>REGISTRADO</th><th>25/05/23</th><th>B118</th><th>13/06/23</th></tr>
-<tr><th>SILVIA PEREIRA</th><th>CARTA</th><th>10/05/23</th><th>46</th><th>29/05/23</th></tr>
 <tr><th>SILVIO CARVALHO</th><th>REGISTRADO</th><th>25/05/23</th><th>B164</th><th>13/06/23</th></tr>
 <tr><th>SILVIO JANINI JUNIOR</th><th>REGISTRADO</th><th>25/05/23</th><th>B136</th><th>13/06/23</th></tr>
 <tr><th>SILVIO ZANINI JUNIOR</th><th>REGISTRADO</th><th>15/05/23</th><th>B42</th><th>03/06/23</th></tr>
@@ -517,7 +480,6 @@
 <tr><th>SIMONI FRANZOI DILL</th><th>CARTA</th><th>16/05/23</th><th>20</th><th>04/06/23</th></tr>
 <tr><th>SIOMAR ROGALEWSKI</th><th>CARTA</th><th>19/05/23</th><th>51</th><th>07/06/23</th></tr>
 <tr><th>SIRLEI APARECIDA DOS SANTOS</th><th>CARTA</th><th>11/05/23</th><th>25</th><th>30/05/23</th></tr>
-<tr><th>SIRLENE WIECZORKIEWICZ SIM</th><th>CARTA</th><th>10/05/23</th><th>53</th><th>29/05/23</th></tr>
 <tr><th>SOFIA SAVICKI</th><th>CARTA</th><th>12/05/23</th><th>25</th><th>31/05/23</th></tr>
 <tr><th>SOLEVANSE BEIGER</th><th>REGISTRADO</th><th>29/05/23</th><th>B115</th><th>17/06/23</th></tr>
 <tr><th>SOLEVANSE BEIGER</th><th>CARTA</th><th>19/05/23</th><th>35</th><th>07/06/23</th></tr>
@@ -525,7 +487,6 @@
 <tr><th>SUELEN MARQUES</th><th>ENCOMENDA</th><th>26/05/23</th><th>I3</th><th>01/06/23</th></tr>
 <tr><th>SUELEN MARQUES</th><th>REGISTRADO</th><th>25/05/23</th><th>B171</th><th>13/06/23</th></tr>
 <tr><th>SUELEN MARQUES</th><th>ENCOMENDA</th><th>26/05/23</th><th>A2</th><th>01/06/23</th></tr>
-<tr><th>SUPERMERCADO MAVEGAL</th><th>CARTA</th><th>10/05/23</th><th>17</th><th>29/05/23</th></tr>
 <tr><th>SUPERMERCADO MAVEGAL</th><th>CARTA</th><th>16/05/23</th><th>15</th><th>04/06/23</th></tr>
 <tr><th>SUPERMERCADO MAVEGAL</th><th>CARTA</th><th>19/05/23</th><th>15</th><th>07/06/23</th></tr>
 <tr><th>SUPERMERCADO MAVEGAL</th><th>CARTA</th><th>19/05/23</th><th>57</th><th>07/06/23</th></tr>
@@ -540,7 +501,6 @@
 <tr><th>TAMIRIS PEREIRA FELIPPE</th><th>REGISTRADO</th><th>22/05/23</th><th>B84</th><th>10/06/23</th></tr>
 <tr><th>TATIANE RODRIGUES</th><th>REGISTRADO</th><th>18/05/23</th><th>B99</th><th>06/06/23</th></tr>
 <tr><th>TEODOSIA MARIA WAZNY OKOPNIK</th><th>REGISTRADO</th><th>18/05/23</th><th>B51</th><th>06/06/23</th></tr>
-<tr><th>TEREZA DAS NEVES FERNANDES</th><th>CARTA</th><th>10/05/23</th><th>5</th><th>29/05/23</th></tr>
 <tr><th>TEREZA STOPA MALCZEWWSKI</th><th>CARTA</th><th>23/05/23</th><th>32</th><th>11/06/23</th></tr>
 <tr><th>TEREZINHA NELLY PENKAL LOCH</th><th>CARTA</th><th>19/05/23</th><th>2</th><th>07/06/23</th></tr>
 <tr><th>THADEU FELIPPE</th><th>CARTA</th><th>15/05/23</th><th>4</th><th>03/06/23</th></tr>
@@ -560,14 +520,11 @@
 <tr><th>VALIRIA SCHWAR E CIA</th><th>CARTA</th><th>24/05/23</th><th>8</th><th>12/06/23</th></tr>
 <tr><th>VALRIAI SCHWARZ SPINDULA</th><th>CARTA</th><th>11/05/23</th><th>24</th><th>30/05/23</th></tr>
 <tr><th>VANDERLEI ANTONI KAFKA</th><th>CARTA</th><th>12/05/23</th><th>1</th><th>31/05/23</th></tr>
-<tr><th>VANDERLEI ANTONIO KAFKA</th><th>CARTA</th><th>10/05/23</th><th>8</th><th>29/05/23</th></tr>
 <tr><th>VANDERLEI DA SILVA</th><th>REGISTRADO</th><th>16/05/23</th><th>B72</th><th>04/06/23</th></tr>
-<tr><th>VANESSA SCHUBERT</th><th>CARTA</th><th>10/05/23</th><th>40</th><th>29/05/23</th></tr>
 <tr><th>VERONICA KUCHLER</th><th>CARTA</th><th>19/05/23</th><th>24</th><th>07/06/23</th></tr>
 <tr><th>VERONICA SAVITSKI RESSEL</th><th>REGISTRADO</th><th>25/05/23</th><th>B158</th><th>13/06/23</th></tr>
 <tr><th>VICTOR H S A</th><th>CARTA</th><th>11/05/23</th><th>15</th><th>30/05/23</th></tr>
 <tr><th>VILMAR BOSSY</th><th>ENCOMENDA</th><th>24/05/23</th><th>J1</th><th>30/05/23</th></tr>
-<tr><th>VILMAR DEMETRIO KORENIVSKI</th><th>CARTA</th><th>10/05/23</th><th>30</th><th>29/05/23</th></tr>
 <tr><th>VILSON PINTO</th><th>CARTA</th><th>19/05/23</th><th>5</th><th>07/06/23</th></tr>
 <tr><th>VITOLDO CACKOWSKI</th><th>CARTA</th><th>29/05/23</th><th>47</th><th>17/06/23</th></tr>
 <tr><th>VITOR RIAN PIRES DA ROSA CARDOSO</th><th>ENCOMENDA</th><th>29/05/23</th><th>G6</th><th>04/06/23</th></tr>
