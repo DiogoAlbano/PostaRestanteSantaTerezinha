@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 31/5/2023 ÀS 8:23 HORAS.
+## DADOS ATUALIZADOS EM: 31/5/2023 ÀS 11:32 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -87,7 +87,6 @@
 <tr><th>CAROLINA FERNANDES DA ROSA</th><th>CARTA</th><th>30/05/23</th><th>143</th><th>18/06/23</th></tr>
 <tr><th>CAROLINA VANIR HACKE</th><th>CARTA</th><th>23/05/23</th><th>31</th><th>11/06/23</th></tr>
 <tr><th>CEBILA PAOVLSKI CEOLIN</th><th>CARTA</th><th>30/05/23</th><th>72</th><th>18/06/23</th></tr>
-<tr><th>CELESTINO KALESKI</th><th>CARTA</th><th>30/05/23</th><th>153</th><th>18/06/23</th></tr>
 <tr><th>CELESTINO NOVAKOWSKI</th><th>REGISTRADO</th><th>18/05/23</th><th>B102</th><th>06/06/23</th></tr>
 <tr><th>CELIO URBANEK</th><th>CARTA</th><th>30/05/23</th><th>82</th><th>18/06/23</th></tr>
 <tr><th>CELIO ZEFERINO</th><th>CARTA</th><th>29/05/23</th><th>30</th><th>17/06/23</th></tr>
@@ -253,7 +252,6 @@
 <tr><th>GIOVANI RATUCHENSKI</th><th>REGISTRADO</th><th>22/05/23</th><th>B5</th><th>10/06/23</th></tr>
 <tr><th>GISELE SCHMIDT WERNER</th><th>ENCOMENDA</th><th>26/05/23</th><th>M11</th><th>01/06/23</th></tr>
 <tr><th>GISLAINE A DE ANDRAD</th><th>CARTA</th><th>18/05/23</th><th>17</th><th>06/06/23</th></tr>
-<tr><th>GISLAINE APARECIDA DE ANDRADE WATRAS</th><th>CARTA</th><th>29/05/23</th><th>40</th><th>17/06/23</th></tr>
 <tr><th>GODTEX CONFECCOES</th><th>CARTA</th><th>16/05/23</th><th>19</th><th>04/06/23</th></tr>
 <tr><th>GRACIELE DUMS</th><th>CARTA</th><th>19/05/23</th><th>48</th><th>07/06/23</th></tr>
 <tr><th>HARI STEINOCHAK</th><th>CARTA</th><th>17/05/23</th><th>13</th><th>05/06/23</th></tr>
@@ -412,7 +410,6 @@
 <tr><th>MARIA CARDOZO CAMPREGHER</th><th>REGISTRADO</th><th>25/05/23</th><th>B124</th><th>13/06/23</th></tr>
 <tr><th>MARIA CONCEICAO BURG</th><th>CARTA</th><th>30/05/23</th><th>88</th><th>18/06/23</th></tr>
 <tr><th>MARIA E RADZINSKI</th><th>REGISTRADO</th><th>29/05/23</th><th>B139</th><th>17/06/23</th></tr>
-<tr><th>MARIA EDUARDA MACHA</th><th>CARTA</th><th>18/05/23</th><th>6</th><th>06/06/23</th></tr>
 <tr><th>MARIA EDUARDA RUDNIK</th><th>REGISTRADO</th><th>15/05/23</th><th>B24</th><th>03/06/23</th></tr>
 <tr><th>MARIA ELISABETE RADZINSKI</th><th>CARTA</th><th>29/05/23</th><th>1</th><th>17/06/23</th></tr>
 <tr><th>MARIA ELISABETE RADZINSKI</th><th>CARTA</th><th>29/05/23</th><th>38</th><th>17/06/23</th></tr>
