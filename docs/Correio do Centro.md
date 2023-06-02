@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 2/6/2023 ÀS 7:52 HORAS.
+## DADOS ATUALIZADOS EM: 2/6/2023 ÀS 11:37 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -43,7 +43,6 @@
 <tr><th>ALEXANDRO HAAG</th><th>CARTA</th><th>24/05/23</th><th>18</th><th>12/06/23</th></tr>
 <tr><th>ALICE RIBEIRO VARELLA</th><th>REGISTRADO</th><th>25/05/23</th><th>B151</th><th>13/06/23</th></tr>
 <tr><th>ALINE AUGUSTIN</th><th>CARTA</th><th>15/05/23</th><th>1</th><th>03/06/23</th></tr>
-<tr><th>ALINE FRAINER</th><th>ENCOMENDA</th><th>29/05/23</th><th>A1</th><th>04/06/23</th></tr>
 <tr><th>ALINE REGINA KUCHLER</th><th>CARTA</th><th>23/05/23</th><th>44</th><th>11/06/23</th></tr>
 <tr><th>ALIRIO PIRES</th><th>CARTA</th><th>29/05/23</th><th>42</th><th>17/06/23</th></tr>
 <tr><th>AMADEU LOURENCO ALVES</th><th>CARTA</th><th>29/05/23</th><th>35</th><th>17/06/23</th></tr>
@@ -203,7 +202,6 @@
 <tr><th>EMERSON TIBORSKI</th><th>REGISTRADO</th><th>25/05/23</th><th>B86</th><th>13/06/23</th></tr>
 <tr><th>EMERSON TIBORSKI</th><th>REGISTRADO</th><th>25/05/23</th><th>B29</th><th>13/06/23</th></tr>
 <tr><th>EMERSON TIBORSKI</th><th>REGISTRADO</th><th>22/05/23</th><th>B16</th><th>10/06/23</th></tr>
-<tr><th>EMILIANO BILK</th><th>CARTA</th><th>29/05/23</th><th>22</th><th>17/06/23</th></tr>
 <tr><th>EMILIANO TRANSPORTES</th><th>REGISTRADO</th><th>16/05/23</th><th>B71</th><th>04/06/23</th></tr>
 <tr><th>EMILIANO TRANSPORTES</th><th>REGISTRADO</th><th>22/05/23</th><th>B8</th><th>10/06/23</th></tr>
 <tr><th>ERALDO FERNANDES</th><th>CARTA</th><th>29/05/23</th><th>53</th><th>17/06/23</th></tr>
@@ -217,8 +215,6 @@
 <tr><th>EVAIR KALUZNY</th><th>CARTA</th><th>30/05/23</th><th>2</th><th>18/06/23</th></tr>
 <tr><th>EVANIR SCHWETLER BLONKOWSKI</th><th>CARTA</th><th>16/05/23</th><th>43</th><th>04/06/23</th></tr>
 <tr><th>EVANIR WEIZENMANN</th><th>CARTA</th><th>30/05/23</th><th>18</th><th>18/06/23</th></tr>
-<tr><th>EVELYN SCHLEIDER</th><th>CARTA</th><th>19/05/23</th><th>64</th><th>07/06/23</th></tr>
-<tr><th>EVELYNN SCHILEIDER</th><th>ENCOMENDA</th><th>29/05/23</th><th>N1</th><th>04/06/23</th></tr>
 <tr><th>FABIO ALCIONE CAPSTRANO</th><th>CARTA</th><th>17/05/23</th><th>11</th><th>05/06/23</th></tr>
 <tr><th>FABIO JUNIO CAPISTRA</th><th>CARTA</th><th>17/05/23</th><th>4</th><th>05/06/23</th></tr>
 <tr><th>FABIO JUNIO CAPISTRANO</th><th>CARTA</th><th>30/05/23</th><th>41</th><th>18/06/23</th></tr>
@@ -256,13 +252,10 @@
 <tr><th>GILSON ELICKER</th><th>CARTA</th><th>30/05/23</th><th>39</th><th>18/06/23</th></tr>
 <tr><th>GILSON ELICKER</th><th>CARTA</th><th>30/05/23</th><th>152</th><th>18/06/23</th></tr>
 <tr><th>GIOVANI RATUCHENSKI</th><th>REGISTRADO</th><th>22/05/23</th><th>B5</th><th>10/06/23</th></tr>
-<tr><th>GISELE SCHMIDT WERNER</th><th>ENCOMENDA</th><th>26/05/23</th><th>M11</th><th>01/06/23</th></tr>
 <tr><th>GISLAINE A DE ANDRAD</th><th>CARTA</th><th>18/05/23</th><th>17</th><th>06/06/23</th></tr>
 <tr><th>GLAUCIA D JUSTINA</th><th>CARTA</th><th>01/06/23</th><th>25</th><th>20/06/23</th></tr>
 <tr><th>GODTEX CONFECCOES</th><th>CARTA</th><th>16/05/23</th><th>19</th><th>04/06/23</th></tr>
 <tr><th>GRACIELE DUMS</th><th>CARTA</th><th>19/05/23</th><th>48</th><th>07/06/23</th></tr>
-<tr><th>HAGUIAR KLOCH</th><th>ENCOMENDA</th><th>31/05/23</th><th>J2</th><th>06/06/23</th></tr>
-<tr><th>HAGUIAR KLOCH</th><th>ENCOMENDA</th><th>31/05/23</th><th>J3</th><th>06/06/23</th></tr>
 <tr><th>HARI STEINOCHAK</th><th>CARTA</th><th>17/05/23</th><th>13</th><th>05/06/23</th></tr>
 <tr><th>HELENA GELSLEICHTER</th><th>REGISTRADO</th><th>29/05/23</th><th>B125</th><th>17/06/23</th></tr>
 <tr><th>HELENA GELSLEICHTER</th><th>REGISTRADO</th><th>25/05/23</th><th>B157</th><th>13/06/23</th></tr>
@@ -439,11 +432,9 @@
 <tr><th>MARIO DROZDEK</th><th>REGISTRADO</th><th>01/06/23</th><th>B26</th><th>20/06/23</th></tr>
 <tr><th>MARISTELA AMARAL</th><th>REGISTRADO</th><th>22/05/23</th><th>B76</th><th>10/06/23</th></tr>
 <tr><th>MARISTELA FERREIRA CUSTODIO MACIEL</th><th>REGISTRADO</th><th>15/05/23</th><th>B45</th><th>03/06/23</th></tr>
-<tr><th>MARIZA MARTINS DE OLIVEIRA</th><th>ENCOMENDA</th><th>31/05/23</th><th>A3</th><th>06/06/23</th></tr>
 <tr><th>MARLENE SUELI BONKOWSKI</th><th>CARTA</th><th>01/06/23</th><th>18</th><th>20/06/23</th></tr>
 <tr><th>MARLI FERNANDES CHIMINSK</th><th>CARTA</th><th>18/05/23</th><th>8</th><th>06/06/23</th></tr>
 <tr><th>MARLON CESAR DA SILVA</th><th>REGISTRADO</th><th>18/05/23</th><th>B92</th><th>06/06/23</th></tr>
-<tr><th>MARMORARIA POMERANOS</th><th>REGISTRADO</th><th>25/05/23</th><th>B153</th><th>13/06/23</th></tr>
 <tr><th>MATEUS DA SILVA</th><th>CARTA</th><th>01/06/23</th><th>27</th><th>20/06/23</th></tr>
 <tr><th>MATEUS DA SILVA</th><th>REGISTRADO</th><th>01/06/23</th><th>B112</th><th>20/06/23</th></tr>
 <tr><th>MATEUS DZUMAN</th><th>REGISTRADO</th><th>01/06/23</th><th>B178</th><th>20/06/23</th></tr>
@@ -496,8 +487,6 @@
 <tr><th>PANIFICADORA SANTA TEREZINHA</th><th>CARTA</th><th>30/05/23</th><th>63</th><th>18/06/23</th></tr>
 <tr><th>PATRICAIA SCHNEIDER</th><th>CARTA</th><th>24/05/23</th><th>3</th><th>12/06/23</th></tr>
 <tr><th>PATRICI GOMES DA SILVA</th><th>CARTA</th><th>19/05/23</th><th>50</th><th>07/06/23</th></tr>
-<tr><th>PATRICIA APARECIDA DUBIELA</th><th>CARTA</th><th>30/05/23</th><th>134</th><th>18/06/23</th></tr>
-<tr><th>PATRICIA APARECIDA DUBIELA</th><th>ENCOMENDA</th><th>01/06/23</th><th>K2</th><th>07/06/23</th></tr>
 <tr><th>PATRICIA MONCZEVSKI</th><th>CARTA</th><th>17/05/23</th><th>2</th><th>05/06/23</th></tr>
 <tr><th>PATRICIA SCHNEIDER</th><th>CARTA</th><th>19/05/23</th><th>43</th><th>07/06/23</th></tr>
 <tr><th>PATRICK GOMES DA SILVA</th><th>CARTA</th><th>16/05/23</th><th>7</th><th>04/06/23</th></tr>
