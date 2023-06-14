@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 14/6/2023 ÀS 8:29 HORAS.
+## DADOS ATUALIZADOS EM: 14/6/2023 ÀS 12:51 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -145,8 +145,6 @@
 <tr><th>DAYENE V G DO NASCIMENTO</th><th>CARTA</th><th>06/06/23</th><th>79</th><th>25/06/23</th></tr>
 <tr><th>DAYENE VOGEL GONCALVES D NASCIMENTO</th><th>REGISTRADO</th><th>30/05/23</th><th>B146</th><th>18/06/23</th></tr>
 <tr><th>DAYENE VOGEL GONCALVES D NASCIMENTO</th><th>CARTA</th><th>12/06/23</th><th>47</th><th>01/07/23</th></tr>
-<tr><th>DEBORA MACHADO</th><th>ENCOMENDA</th><th>07/06/23</th><th>I11</th><th>13/06/23</th></tr>
-<tr><th>DEBORA NILZA MACHADO</th><th>ENCOMENDA</th><th>12/06/23</th><th>G5</th><th>18/06/23</th></tr>
 <tr><th>DEBORA ZATUR MONTEIRO</th><th>ENCOMENDA</th><th>12/06/23</th><th>I13</th><th>18/06/23</th></tr>
 <tr><th>DEMETRIO KORENIVSKI</th><th>CARTA</th><th>30/05/23</th><th>80</th><th>18/06/23</th></tr>
 <tr><th>DENISE REIBERG</th><th>ENCOMENDA</th><th>07/06/23</th><th>K1</th><th>13/06/23</th></tr>
@@ -327,8 +325,6 @@
 <tr><th>JURACIR FERNANDES</th><th>CARTA</th><th>29/05/23</th><th>33</th><th>17/06/23</th></tr>
 <tr><th>JUSSARA LIMA</th><th>REGISTRADO</th><th>09/06/23</th><th>B76</th><th>28/06/23</th></tr>
 <tr><th>JUVENTINO KUCHLER</th><th>CARTA</th><th>13/06/23</th><th>12</th><th>02/07/23</th></tr>
-<tr><th>KAMYLLA APARECIDA PFLEGER</th><th>ENCOMENDA</th><th>12/06/23</th><th>I12</th><th>18/06/23</th></tr>
-<tr><th>KAMYLLA APARECIDA PFLEGER</th><th>ENCOMENDA</th><th>12/06/23</th><th>L1</th><th>18/06/23</th></tr>
 <tr><th>KAU COMERCIO DE CONFECCOES</th><th>CARTA</th><th>13/06/23</th><th>32</th><th>02/07/23</th></tr>
 <tr><th>LANCHONETE E RESTAURANTE SANTA TEREZINHA</th><th>REGISTRADO</th><th>29/05/23</th><th>B109</th><th>17/06/23</th></tr>
 <tr><th>LARISSA TAINA OZELAME</th><th>CARTA</th><th>02/06/23</th><th>18</th><th>21/06/23</th></tr>
@@ -498,7 +494,6 @@
 <tr><th>ROSELI BUSCOSKI ZALASKO</th><th>CARTA</th><th>30/05/23</th><th>111</th><th>18/06/23</th></tr>
 <tr><th>ROSELI CECILIA DIAS MACHADO</th><th>CARTA</th><th>06/06/23</th><th>113</th><th>25/06/23</th></tr>
 <tr><th>ROSENILDA BALAK LONG</th><th>REGISTRADO</th><th>01/06/23</th><th>B38</th><th>20/06/23</th></tr>
-<tr><th>ROSICLEIA RIBEIRO DE GOES</th><th>ENCOMENDA</th><th>12/06/23</th><th>K4</th><th>18/06/23</th></tr>
 <tr><th>ROSILENE KOHUT ALKA</th><th>REGISTRADO</th><th>01/06/23</th><th>B35</th><th>20/06/23</th></tr>
 <tr><th>ROSIMEIRE M SILVA</th><th>CARTA</th><th>06/06/23</th><th>15</th><th>25/06/23</th></tr>
 <tr><th>ROZANGELA GARLINI</th><th>CARTA</th><th>06/06/23</th><th>117</th><th>25/06/23</th></tr>
