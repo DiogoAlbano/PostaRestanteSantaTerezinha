@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 14/6/2023 ÀS 16:12 HORAS.
+## DADOS ATUALIZADOS EM: 15/6/2023 ÀS 8:25 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -154,7 +154,6 @@
 <tr><th>DAYENE VOGEL GONCALVES D NASCIMENTO</th><th>CARTA</th><th>12/06/23</th><th>47</th><th>01/07/23</th></tr>
 <tr><th>DEIZE MERI STOPA</th><th>ENCOMENDA</th><th>14/06/23</th><th>A2</th><th>20/06/23</th></tr>
 <tr><th>DEMETRIO KORENIVSKI</th><th>CARTA</th><th>30/05/23</th><th>80</th><th>18/06/23</th></tr>
-<tr><th>DENISE REIBERG</th><th>ENCOMENDA</th><th>07/06/23</th><th>K1</th><th>13/06/23</th></tr>
 <tr><th>DEONISIO RUDNICK</th><th>REGISTRADO</th><th>14/06/23</th><th>B9</th><th>03/07/23</th></tr>
 <tr><th>DERCO PINHEIRO</th><th>CARTA</th><th>06/06/23</th><th>1</th><th>25/06/23</th></tr>
 <tr><th>DIEGO GONCALVES DE GONCALVES</th><th>ENCOMENDA</th><th>12/06/23</th><th>A1</th><th>18/06/23</th></tr>
@@ -214,7 +213,6 @@
 <tr><th>EVANIR BEZ FONTANA BORGHEZA</th><th>CARTA</th><th>12/06/23</th><th>27</th><th>01/07/23</th></tr>
 <tr><th>EVANIR SCHWETLER BLONKOWSKI</th><th>REGISTRADO</th><th>05/06/23</th><th>B41</th><th>24/06/23</th></tr>
 <tr><th>EVANIR WEIZENMANN</th><th>CARTA</th><th>30/05/23</th><th>18</th><th>18/06/23</th></tr>
-<tr><th>EVELYN SCHILEIDER</th><th>ENCOMENDA</th><th>07/06/23</th><th>N8</th><th>13/06/23</th></tr>
 <tr><th>EVELYN SCHILEIDER</th><th>CARTA</th><th>13/06/23</th><th>43</th><th>02/07/23</th></tr>
 <tr><th>FABIANE WERNER</th><th>ENCOMENDA</th><th>14/06/23</th><th>N1</th><th>20/06/23</th></tr>
 <tr><th>FABIANO LUCAS GRAFF</th><th>CARTA</th><th>09/06/23</th><th>42</th><th>28/06/23</th></tr>
@@ -441,7 +439,6 @@
 <tr><th>MARIA NILDA DOBNER</th><th>ENCOMENDA</th><th>14/06/23</th><th>I4</th><th>20/06/23</th></tr>
 <tr><th>MARIA NILDA DOBNER</th><th>ENCOMENDA</th><th>14/06/23</th><th>A3</th><th>20/06/23</th></tr>
 <tr><th>MARIA ZELI FELIPI</th><th>CARTA</th><th>09/06/23</th><th>24</th><th>28/06/23</th></tr>
-<tr><th>MARILEI OSINSKI</th><th>ENCOMENDA</th><th>07/06/23</th><th>O1</th><th>13/06/23</th></tr>
 <tr><th>MARILENE FORTUNA</th><th>CARTA</th><th>30/05/23</th><th>3</th><th>18/06/23</th></tr>
 <tr><th>MARINEIRE CAPISTRANO CAETANO</th><th>CARTA</th><th>29/05/23</th><th>5</th><th>17/06/23</th></tr>
 <tr><th>MARIO BURDZINSKI</th><th>CARTA</th><th>09/06/23</th><th>35</th><th>28/06/23</th></tr>
@@ -476,7 +473,6 @@
 <tr><th>NATHAN LUIZ KLOCH</th><th>CARTA</th><th>06/06/23</th><th>22</th><th>25/06/23</th></tr>
 <tr><th>NELSO JOSE ZALASKO</th><th>CARTA</th><th>09/06/23</th><th>44</th><th>28/06/23</th></tr>
 <tr><th>NELSO STOPA</th><th>REGISTRADO</th><th>02/06/23</th><th>B132</th><th>21/06/23</th></tr>
-<tr><th>NELSON DYHON SCHIMINSKI</th><th>ENCOMENDA</th><th>07/06/23</th><th>A7</th><th>13/06/23</th></tr>
 <tr><th>NELSON DYHON SCHMINSKI</th><th>CARTA</th><th>30/05/23</th><th>8</th><th>18/06/23</th></tr>
 <tr><th>NELSON PEREIRA</th><th>REGISTRADO</th><th>01/06/23</th><th>B131</th><th>20/06/23</th></tr>
 <tr><th>NEREU CACKOWSKI</th><th>CARTA</th><th>06/06/23</th><th>98</th><th>25/06/23</th></tr>
@@ -506,7 +502,6 @@
 <tr><th>PANIFICADORA SANTA TEREZINHA</th><th>CARTA</th><th>30/05/23</th><th>63</th><th>18/06/23</th></tr>
 <tr><th>PATRICIA ALKA</th><th>ENCOMENDA</th><th>14/06/23</th><th>G3</th><th>20/06/23</th></tr>
 <tr><th>PATRICIA APARECIDA DUBIELA</th><th>ENCOMENDA</th><th>14/06/23</th><th>F8</th><th>20/06/23</th></tr>
-<tr><th>PATRICIA REGINA M</th><th>ENCOMENDA</th><th>07/06/23</th><th>M9</th><th>13/06/23</th></tr>
 <tr><th>PAULINHO DZUMAN</th><th>CARTA</th><th>13/06/23</th><th>42</th><th>02/07/23</th></tr>
 <tr><th>PAULO BARRABAS</th><th>CARTA</th><th>06/06/23</th><th>127</th><th>25/06/23</th></tr>
 <tr><th>PAULO BURDZINSKI</th><th>CARTA</th><th>06/06/23</th><th>56</th><th>25/06/23</th></tr>
@@ -558,7 +553,6 @@
 <tr><th>SAMUEL MARCO GOTERRA</th><th>CARTA</th><th>06/06/23</th><th>112</th><th>25/06/23</th></tr>
 <tr><th>SAMUEL SADLOWSKI</th><th>CARTA</th><th>06/06/23</th><th>82</th><th>25/06/23</th></tr>
 <tr><th>SAMYRA MAIA VICENTE</th><th>REGISTRADO</th><th>02/06/23</th><th>B83</th><th>21/06/23</th></tr>
-<tr><th>SANDIANE ALVES</th><th>ENCOMENDA</th><th>07/06/23</th><th>N7</th><th>13/06/23</th></tr>
 <tr><th>SANDRA RIBEIRO DOS SANTOS</th><th>CARTA</th><th>06/06/23</th><th>34</th><th>25/06/23</th></tr>
 <tr><th>SARAUE DE OLIVEIRA MARIN</th><th>CARTA</th><th>01/06/23</th><th>29</th><th>20/06/23</th></tr>
 <tr><th>SAVIO SADLOWSKI</th><th>CARTA</th><th>06/06/23</th><th>92</th><th>25/06/23</th></tr>
