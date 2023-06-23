@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 22/6/2023 ÀS 16:14 HORAS.
+## DADOS ATUALIZADOS EM: 23/6/2023 ÀS 8:01 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -121,7 +121,6 @@
 <tr><th>DENISE RODRIGUES</th><th>REGISTRADO</th><th>22/06/23</th><th>B39</th><th>11/07/23</th></tr>
 <tr><th>DEONISIO RUDNICK</th><th>REGISTRADO</th><th>14/06/23</th><th>B9</th><th>03/07/23</th></tr>
 <tr><th>DERCO PINHEIRO</th><th>CARTA</th><th>06/06/23</th><th>1</th><th>25/06/23</th></tr>
-<tr><th>DIELSO MARTINS DE OLIVEIRA</th><th>ENCOMENDA</th><th>15/06/23</th><th>F5</th><th>21/06/23</th></tr>
 <tr><th>DIENIFFER ALGUSTA CARVALHO DE</th><th>CARTA</th><th>06/06/23</th><th>86</th><th>25/06/23</th></tr>
 <tr><th>DILENE MARIA DE AND</th><th>CARTA</th><th>06/06/23</th><th>13</th><th>25/06/23</th></tr>
 <tr><th>DIONISIO ZANOVELLO</th><th>CARTA</th><th>12/06/23</th><th>1</th><th>01/07/23</th></tr>
@@ -289,7 +288,6 @@
 <tr><th>LUCILDA STANGE</th><th>CARTA</th><th>06/06/23</th><th>25</th><th>25/06/23</th></tr>
 <tr><th>LUCIMARA NIEMEIER</th><th>CARTA</th><th>13/06/23</th><th>27</th><th>02/07/23</th></tr>
 <tr><th>LUCIMARCIA BEJGER</th><th>CARTA</th><th>06/06/23</th><th>115</th><th>25/06/23</th></tr>
-<tr><th>LUDOVICO SUFFEZ</th><th>ENCOMENDA</th><th>15/06/23</th><th>F7</th><th>21/06/23</th></tr>
 <tr><th>LUIZ CARLOS POCKSZEVNICKI</th><th>CARTA</th><th>06/06/23</th><th>63</th><th>25/06/23</th></tr>
 <tr><th>LUIZ CARLOS POCKSZEVNICKI</th><th>CARTA</th><th>13/06/23</th><th>16</th><th>02/07/23</th></tr>
 <tr><th>LUIZ F PEREIRA</th><th>CARTA</th><th>13/06/23</th><th>2</th><th>02/07/23</th></tr>
