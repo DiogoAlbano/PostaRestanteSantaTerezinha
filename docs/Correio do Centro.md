@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 30/6/2023 ÀS 15:54 HORAS.
+## DADOS ATUALIZADOS EM: 30/6/2023 ÀS 16:45 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -145,7 +145,6 @@
 <tr><th>DEBORA NILZA MACHADO</th><th>CARTA</th><th>26/06/23</th><th>6</th><th>15/07/23</th></tr>
 <tr><th>DEBORA NILZA MACHADO</th><th>CARTA</th><th>26/06/23</th><th>7</th><th>15/07/23</th></tr>
 <tr><th>DEBORA NILZA MACHADO</th><th>CARTA</th><th>15/06/23</th><th>11</th><th>04/07/23</th></tr>
-<tr><th>DEISE NOGUEIRA</th><th>ENCOMENDA</th><th>30/06/23</th><th>I7</th><th>06/07/23</th></tr>
 <tr><th>DEMETRIO KORENIVSKI</th><th>CARTA</th><th>30/06/23</th><th>22</th><th>19/07/23</th></tr>
 <tr><th>DENISE RODRIGUES</th><th>REGISTRADO</th><th>22/06/23</th><th>B39</th><th>11/07/23</th></tr>
 <tr><th>DEONISIO RUDNICK</th><th>REGISTRADO</th><th>14/06/23</th><th>B9</th><th>03/07/23</th></tr>
@@ -436,7 +435,6 @@
 <tr><th>NELSON DYHON SCHIMINSKI</th><th>CARTA</th><th>28/06/23</th><th>1</th><th>17/07/23</th></tr>
 <tr><th>NEUSA WOLLINGER SCHUMACHER</th><th>CARTA</th><th>27/06/23</th><th>70</th><th>16/07/23</th></tr>
 <tr><th>NICERAS TEREZINHA PFFLEGER SEMPKOWSKI</th><th>CARTA</th><th>13/06/23</th><th>3</th><th>02/07/23</th></tr>
-<tr><th>NICOLAS METZGER</th><th>ENCOMENDA</th><th>30/06/23</th><th>O1</th><th>06/07/23</th></tr>
 <tr><th>NILCEIA KALESKI MACEDO</th><th>ENCOMENDA</th><th>28/06/23</th><th>K5</th><th>04/07/23</th></tr>
 <tr><th>NIVALDO RAFAEL KOHUT</th><th>CARTA</th><th>27/06/23</th><th>41</th><th>16/07/23</th></tr>
 <tr><th>ODENIR CAPISTRANI</th><th>CARTA</th><th>26/06/23</th><th>67</th><th>15/07/23</th></tr>
