@@ -1,7 +1,7 @@
 ←← [VOLTAR](https://github.com/DiogoAlbano/PostaRestanteSantaTerezinha/blob/main/Lista.md)
 
 # LISTA DE POSTA RESTANTE AC SANTA TEREZINHA
-## DADOS ATUALIZADOS EM: 29/6/2023 ÀS 16:14 HORAS.
+## DADOS ATUALIZADOS EM: 30/6/2023 ÀS 8:25 HORAS.
 
 * OBJETOS QUE APARECEM COMO RETIRAR ATÉ DATA QUE CAIA EM FINAL DE SEMANA DEVEM SER RETIRADOS NA SEXTA-FEIRA! 
 
@@ -22,7 +22,6 @@
 <tr><th>ADRIANO NOVAKOWSKI</th><th>CARTA</th><th>26/06/23</th><th>27</th><th>15/07/23</th></tr>
 <tr><th>AGROOUROVERDE</th><th>CARTA</th><th>19/06/23</th><th>19</th><th>08/07/23</th></tr>
 <tr><th>AGROPECUARIA JAROSCZWSKI</th><th>REGISTRADO</th><th>28/06/23</th><th>B71</th><th>17/07/23</th></tr>
-<tr><th>ALCIR HLENKA</th><th>ENCOMENDA</th><th>22/06/23</th><th>I12</th><th>28/06/23</th></tr>
 <tr><th>ALESSANDRA BUENO</th><th>REGISTRADO</th><th>28/06/23</th><th>B101</th><th>17/07/23</th></tr>
 <tr><th>ALEX JUNIO WJCIECHOWSKI</th><th>CARTA</th><th>26/06/23</th><th>64</th><th>15/07/23</th></tr>
 <tr><th>ALEX JUNIOR WOJCIECHOWSKI</th><th>CARTA</th><th>26/06/23</th><th>76</th><th>15/07/23</th></tr>
@@ -193,11 +192,9 @@
 <tr><th>GENECIR PAVLAK</th><th>CARTA</th><th>27/06/23</th><th>80</th><th>16/07/23</th></tr>
 <tr><th>GENESIO PEREIRA</th><th>CARTA</th><th>26/06/23</th><th>25</th><th>15/07/23</th></tr>
 <tr><th>GEOVANI SANTOS WOLLINGER</th><th>REGISTRADO</th><th>26/06/23</th><th>B93</th><th>15/07/23</th></tr>
-<tr><th>GIAN CARLOS BEJGER</th><th>ENCOMENDA</th><th>22/06/23</th><th>J13</th><th>28/06/23</th></tr>
 <tr><th>GILMAR JOAO BARCELOS</th><th>CARTA</th><th>15/06/23</th><th>17</th><th>04/07/23</th></tr>
 <tr><th>GILMAR JOAO BARCELOS</th><th>CARTA</th><th>15/06/23</th><th>4</th><th>04/07/23</th></tr>
 <tr><th>GILMAR MUSTEFAGA</th><th>CARTA</th><th>19/06/23</th><th>44</th><th>08/07/23</th></tr>
-<tr><th>GILSON ELICKER</th><th>ENCOMENDA</th><th>22/06/23</th><th>I13</th><th>28/06/23</th></tr>
 <tr><th>GILSON ELICKER</th><th>CARTA</th><th>26/06/23</th><th>26</th><th>15/07/23</th></tr>
 <tr><th>GILSON SCHLICKMANN</th><th>CARTA</th><th>27/06/23</th><th>43</th><th>16/07/23</th></tr>
 <tr><th>GILSON SCHLICKMANN</th><th>CARTA</th><th>27/06/23</th><th>45</th><th>16/07/23</th></tr>
@@ -236,7 +233,6 @@
 <tr><th>JANDIRA IGLIKOVSKI VALLES</th><th>CARTA</th><th>26/06/23</th><th>54</th><th>15/07/23</th></tr>
 <tr><th>JANETE BEATRIZ PINHEIRO DE OLIVEIRA</th><th>CARTA</th><th>12/06/23</th><th>5</th><th>01/07/23</th></tr>
 <tr><th>JAQUELINE ANDRADE</th><th>CARTA</th><th>26/06/23</th><th>82</th><th>15/07/23</th></tr>
-<tr><th>JARDEL ???</th><th>ENCOMENDA</th><th>22/06/23</th><th>A3</th><th>28/06/23</th></tr>
 <tr><th>JEFERSON LUIS BORGHESAM</th><th>REGISTRADO</th><th>22/06/23</th><th>B91</th><th>11/07/23</th></tr>
 <tr><th>JOACIR DE LIMA</th><th>CARTA</th><th>15/06/23</th><th>21</th><th>04/07/23</th></tr>
 <tr><th>JOACIR DE LIMA</th><th>ENCOMENDA</th><th>26/06/23</th><th>M6</th><th>02/07/23</th></tr>
@@ -414,7 +410,6 @@
 <tr><th>PONTO ELETRONICOS</th><th>CARTA</th><th>19/06/23</th><th>10</th><th>08/07/23</th></tr>
 <tr><th>PONTO ELETRONICOS E INFORMATICA</th><th>REGISTRADO</th><th>22/06/23</th><th>B45</th><th>11/07/23</th></tr>
 <tr><th>RAFAEL PAULINO</th><th>REGISTRADO</th><th>16/06/23</th><th>B52</th><th>05/07/23</th></tr>
-<tr><th>RAILANE FALCAO LIMA</th><th>ENCOMENDA</th><th>22/06/23</th><th>C3</th><th>28/06/23</th></tr>
 <tr><th>RENALDO SUFFEZ</th><th>CARTA</th><th>28/06/23</th><th>17</th><th>17/07/23</th></tr>
 <tr><th>RENAN BORTOLI CAMARGO</th><th>CARTA</th><th>26/06/23</th><th>24</th><th>15/07/23</th></tr>
 <tr><th>RENATO KOTELAK</th><th>REGISTRADO</th><th>28/06/23</th><th>B44</th><th>17/07/23</th></tr>
